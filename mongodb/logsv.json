@@ -1,0 +1,307 @@
+[{
+  "_id": {
+    "$oid": "61377006b911000036000482"
+  },
+  "targetID": "612078d3d75a0000240034b8",
+  "targetName": "MOHAMAD IHSAN KAMIL",
+  "targetGroupName": "JAMAAH ISLAMIYAH",
+  "activityDate": "2021-09-03",
+  "activity": [
+    {
+      "activityTime": "14:51:01",
+      "activityName": "DAKWAH",
+      "activityDetail": "Dakwah setelah sholat jumat",
+      "accessPoint": {
+        "province": "JAWA BARAT",
+        "district": "KOTA DEPOK",
+        "subdistrict": "BOJONGSARI",
+        "village": "PONDOK PETIR",
+        "place": "Masjid Az Zahra"
+      },
+      "coordinat": {
+        "latitude": "123456",
+        "longitude": "123456"
+      },
+      "cgi": {
+        "provider": "TELKOMSEL",
+        "band": "4G",
+        "gel": "1234",
+        "cellid": "1234"
+      },
+      "vehicle": {
+        "vehicleType": "MOTOR",
+        "vehicleNumber": "B 6122 ZRJ"
+      }
+    },
+    {
+      "activityTime": "15:16:12",
+      "activityName": "KAJIAN",
+      "activityDetail": "Kajian",
+      "accessPoint": {
+        "province": "JAWA BARAT",
+        "district": "KOTA DEPOK",
+        "subdistrict": "BOJONGSARI",
+        "village": "PONDOK PETIR",
+        "place": "Rumah target"
+      },
+      "coordinat": {
+        "latitude": "4231",
+        "longitude": "5432"
+      },
+      "cgi": {
+        "provider": "TELKOMSEL",
+        "band": "4G",
+        "gel": "1234",
+        "cellid": "1234"
+      },
+      "vehicle": {
+        "vehicleType": "MOTOR",
+        "vehicleNumber": "B 3232 ZRJ"
+      }
+    }
+  ],
+  "inassociate": [
+    "UNKNOWN MALE",
+    "UNKNOWN MALE"
+  ],
+  "gallery": [
+    "gallery/61377006b911000036000481/61377006b91100003600048116310231100.jpg",
+    "gallery/61377006b911000036000481/61377006b91100003600048116310231101.jpg",
+    "gallery/61377006b911000036000481/61377006b91100003600048116310231102.jpg"
+  ],
+  "caseAgentName": "DIREKTORAT INTELEJEN",
+  "svteam": [
+    "FAJAR NUR SIDIQ",
+    "ANDRI SUSILO BAMBANG",
+    "BOBBY RAFLY"
+  ],
+  "updated_by": "MOHAMAD IHSAN KAMIL",
+  "updated_at": {
+    "$date": "2021-09-07T13:58:30.599Z"
+  },
+  "created_at": {
+    "$date": "2021-09-07T13:58:30.599Z"
+  }
+},{
+  "_id": {
+    "$oid": "6137709cb911000036000484"
+  },
+  "targetID": "61250bb0eb4f000041007a55",
+  "targetName": "BUDI NOVIYANTO",
+  "targetGroupName": "JAMAAH ISLAMIYAH",
+  "activityDate": "2021-09-02",
+  "activity": [
+    {
+      "activityTime": "15:15:01",
+      "activityName": "KAJIAN",
+      "activityDetail": "Kajian",
+      "accessPoint": {
+        "province": "DKI JAKARTA",
+        "district": "KOTA ADM. JAKARTA SELATAN",
+        "subdistrict": "MAMPANG PRAPATAN",
+        "village": "BANGKA",
+        "place": "JL. Kemang Barat no. 66"
+      },
+      "coordinat": {
+        "latitude": "123456",
+        "longitude": "23132132.1"
+      },
+      "cgi": {
+        "provider": "XL AXIATA",
+        "band": "4G",
+        "gel": "1234",
+        "cellid": "1234"
+      },
+      "vehicle": {
+        "vehicleType": "MOBIL",
+        "vehicleNumber": "B 3232 NB"
+      }
+    }
+  ],
+  "inassociate": [
+    "JONI BUDIMAN"
+  ],
+  "gallery": [
+    "gallery/6137709bb911000036000483/6137709bb91100003600048316310232590.jpg"
+  ],
+  "caseAgentName": "SATGASWIL DKI JAKARTA",
+  "svteam": [
+    "FAJAR NUR SIDIQ",
+    "BOBBY RAFLY",
+    "AMANDA FARADILA",
+    "AMIN TOHARI SARKUN"
+  ],
+  "updated_by": "MOHAMAD IHSAN KAMIL",
+  "updated_at": {
+    "$date": "2021-09-07T14:01:00.031Z"
+  },
+  "created_at": {
+    "$date": "2021-09-07T14:01:00.031Z"
+  }
+},{
+  "_id": {
+    "$oid": "613771cab911000036000486"
+  },
+  "targetID": "612078d3d75a0000240034b8",
+  "targetName": "MOHAMAD IHSAN KAMIL",
+  "targetGroupName": "JAMAAH ISLAMIYAH",
+  "activityDate": "2021-09-04",
+  "activity": [
+    {
+      "activityTime": "07:10:10",
+      "activityName": "DAKWAH",
+      "activityDetail": "Dakwah di Jakbar",
+      "accessPoint": {
+        "province": "DKI JAKARTA",
+        "district": "KOTA ADM. JAKARTA BARAT",
+        "subdistrict": "KEBON JERUK",
+        "village": "SUKABUMI UTARA",
+        "place": "Masjid  BINUS Anggrek"
+      },
+      "coordinat": {
+        "latitude": "512412214",
+        "longitude": "421421241"
+      },
+      "cgi": {
+        "provider": "XL AXIATA",
+        "band": "3G",
+        "gel": "2132132",
+        "cellid": "1234"
+      },
+      "vehicle": {
+        "vehicleType": "MOBIL",
+        "vehicleNumber": "B 1421 ZAR"
+      }
+    },
+    {
+      "activityTime": "09:11:02",
+      "activityName": "KAJIAN",
+      "activityDetail": "Kajian di kosan dekat pasar palmerah",
+      "accessPoint": {
+        "province": "DKI JAKARTA",
+        "district": "KOTA ADM. JAKARTA BARAT",
+        "subdistrict": "PAL MERAH",
+        "village": "PALMERAH",
+        "place": "Kosan palmerah"
+      },
+      "coordinat": {
+        "latitude": "4231",
+        "longitude": "5432"
+      },
+      "cgi": {
+        "provider": "TELKOMSEL",
+        "band": "4G",
+        "gel": "1234",
+        "cellid": "1234"
+      },
+      "vehicle": {
+        "vehicleType": "MOBIL",
+        "vehicleNumber": "B 1442 ZAR"
+      }
+    },
+    {
+      "activityTime": "12:31:00",
+      "activityName": "DAKWAH",
+      "activityDetail": "Dakwah di masjid rs tarakan",
+      "accessPoint": {
+        "province": "DKI JAKARTA",
+        "district": "KOTA ADM. JAKARTA PUSAT",
+        "subdistrict": "TANAH ABANG",
+        "village": "KEBON KACANG",
+        "place": "Masjid RS Tarakan"
+      },
+      "coordinat": {
+        "latitude": "31221",
+        "longitude": "321312"
+      },
+      "cgi": {
+        "provider": "TELKOMSEL",
+        "band": "3G",
+        "gel": "32112",
+        "cellid": "341423"
+      },
+      "vehicle": {
+        "vehicleType": "MOTOR",
+        "vehicleNumber": "B  ZAE"
+      }
+    }
+  ],
+  "inassociate": [
+    "JONI BUDIMAN",
+    "JONI BUDIMAN",
+    "JONI BUDIMAN"
+  ],
+  "gallery": [
+    "gallery/613771c9b911000036000485/613771c9b91100003600048516310235610.jpg",
+    "gallery/613771c9b911000036000485/613771c9b91100003600048516310235621.jpg",
+    "gallery/613771c9b911000036000485/613771c9b91100003600048516310235622.jpg"
+  ],
+  "caseAgentName": "SATGASWIL DKI JAKARTA",
+  "svteam": [
+    "FAJAR NUR SIDIQ",
+    "ANDRI SUSILO BAMBANG",
+    "BOBBY RAFLY"
+  ],
+  "updated_by": "MOHAMAD IHSAN KAMIL",
+  "updated_at": {
+    "$date": "2021-09-07T14:06:02.259Z"
+  },
+  "created_at": {
+    "$date": "2021-09-07T14:06:02.259Z"
+  }
+},{
+  "_id": {
+    "$oid": "61377290b911000036000488"
+  },
+  "targetID": "6130d9211d1a0000f8002a3b",
+  "targetName": "JONI BUDIMAN",
+  "targetGroupName": "JAMAAH ISLAMIYAH",
+  "activityDate": "2021-09-06",
+  "activity": [
+    {
+      "activityTime": "13:41:11",
+      "activityName": "KAJIAN",
+      "activityDetail": "Kajian di Jakarta",
+      "accessPoint": {
+        "province": "SUMATERA SELATAN",
+        "district": "LAHAT",
+        "subdistrict": "KOTA AGUNG",
+        "village": "KEBAN JATI",
+        "place": "di lahat"
+      },
+      "coordinat": {
+        "latitude": "12345667",
+        "longitude": "23132132.1"
+      },
+      "cgi": {
+        "provider": "XL AXIATA",
+        "band": "3G",
+        "gel": "1234",
+        "cellid": "1234"
+      },
+      "vehicle": {
+        "vehicleType": "BUS UMUM",
+        "vehicleNumber": "BG 2411 AS"
+      }
+    }
+  ],
+  "inassociate": [
+    "JONI BUDIMAN"
+  ],
+  "gallery": [
+    "gallery/6137728fb911000036000487/6137728fb91100003600048716310237600.jpg"
+  ],
+  "caseAgentName": "SATGASWIL JAMBI",
+  "svteam": [
+    "BOBBY RAFLY",
+    "AMANDA FARADILA",
+    "AMIN TOHARI SARKUN"
+  ],
+  "updated_by": "MOHAMAD IHSAN KAMIL",
+  "updated_at": {
+    "$date": "2021-09-07T14:09:20.147Z"
+  },
+  "created_at": {
+    "$date": "2021-09-07T14:09:20.147Z"
+  }
+}]

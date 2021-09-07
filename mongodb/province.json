@@ -1,0 +1,257 @@
+[{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f94936"
+  },
+  "provinceNo": 11,
+  "provinceName": "ACEH",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f94937"
+  },
+  "provinceNo": 12,
+  "provinceName": "SUMATERA UTARA",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f94938"
+  },
+  "provinceNo": 13,
+  "provinceName": "SUMATERA BARAT",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f94939"
+  },
+  "provinceNo": 14,
+  "provinceName": "RIAU",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f9493a"
+  },
+  "provinceNo": 15,
+  "provinceName": "JAMBI",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f9493b"
+  },
+  "provinceNo": 16,
+  "provinceName": "SUMATERA SELATAN",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f9493c"
+  },
+  "provinceNo": 17,
+  "provinceName": "BENGKULU",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f9493d"
+  },
+  "provinceNo": 18,
+  "provinceName": "LAMPUNG",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f9493e"
+  },
+  "provinceNo": 19,
+  "provinceName": "KEPULAUAN BANGKA BELITUNG",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f9493f"
+  },
+  "provinceNo": 21,
+  "provinceName": "KEPULAUAN RIAU",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f94940"
+  },
+  "provinceNo": 31,
+  "provinceName": "DKI JAKARTA",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f94941"
+  },
+  "provinceNo": 32,
+  "provinceName": "JAWA BARAT",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f94942"
+  },
+  "provinceNo": 33,
+  "provinceName": "JAWA TENGAH",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f94943"
+  },
+  "provinceNo": 34,
+  "provinceName": "DAERAH ISTIMEWA YOGYAKARTA",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f94944"
+  },
+  "provinceNo": 35,
+  "provinceName": "JAWA TIMUR",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f94945"
+  },
+  "provinceNo": 36,
+  "provinceName": "BANTEN",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f94946"
+  },
+  "provinceNo": 51,
+  "provinceName": "BALI",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f94947"
+  },
+  "provinceNo": 52,
+  "provinceName": "NUSA TENGGARA BARAT",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f94948"
+  },
+  "provinceNo": 53,
+  "provinceName": "NUSA TENGGARA TIMUR",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f94949"
+  },
+  "provinceNo": 61,
+  "provinceName": "KALIMANTAN BARAT",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f9494a"
+  },
+  "provinceNo": 62,
+  "provinceName": "KALIMANTAN TENGAH",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f9494b"
+  },
+  "provinceNo": 63,
+  "provinceName": "KALIMANTAN SELATAN",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f9494c"
+  },
+  "provinceNo": 64,
+  "provinceName": "KALIMANTAN TIMUR",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f9494d"
+  },
+  "provinceNo": 65,
+  "provinceName": "KALIMANTAN UTARA",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f9494e"
+  },
+  "provinceNo": 71,
+  "provinceName": "SULAWESI UTARA",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f9494f"
+  },
+  "provinceNo": 72,
+  "provinceName": "SULAWESI TENGAH",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f94950"
+  },
+  "provinceNo": 73,
+  "provinceName": "SULAWESI SELATAN",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f94951"
+  },
+  "provinceNo": 74,
+  "provinceName": "SULAWESI TENGGARA",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f94952"
+  },
+  "provinceNo": 75,
+  "provinceName": "GORONTALO",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f94953"
+  },
+  "provinceNo": 76,
+  "provinceName": "SULAWESI BARAT",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f94954"
+  },
+  "provinceNo": 81,
+  "provinceName": "MALUKU",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f94955"
+  },
+  "provinceNo": 82,
+  "provinceName": "MALUKU UTARA",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f94956"
+  },
+  "provinceNo": 91,
+  "provinceName": "PAPUA",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f388ce8db1f69f94957"
+  },
+  "provinceNo": 92,
+  "provinceName": "PAPUA BARAT",
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "612c30eb664300004e0041ef"
+  },
+  "provinceNo": 94,
+  "provinceName": "TEST1",
+  "updated_by": "",
+  "updated_at": {
+    "$date": "2021-08-30T01:17:38.720Z"
+  },
+  "created_at": {
+    "$date": "2021-08-30T01:14:19.738Z"
+  }
+},{
+  "_id": {
+    "$oid": "612c5e6eeee14e85e5987ef4"
+  },
+  "updated_by": ""
+}]

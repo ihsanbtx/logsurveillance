@@ -1,0 +1,838 @@
+[{
+  "_id": {
+    "$oid": "612078d3d75a0000240034b8"
+  },
+  "nik": "3276031101970005",
+  "fullname": "MOHAMAD IHSAN KAMIL",
+  "placeofbirth": "JAKARTA",
+  "dateofbirth": "1997-01-11",
+  "gender": "male",
+  "avatar": "avatar/612078d3d75a0000240034b8.jpg",
+  "asknownas": [
+    "BATAK",
+    "DIMAS",
+    "JAGORIGOG",
+    "KUROY"
+  ],
+  "updated_at": {
+    "$date": "2021-08-21T03:53:55.954Z"
+  },
+  "created_at": {
+    "$date": "2021-08-21T03:53:55.954Z"
+  },
+  "logsv": [
+    {
+      "_id": {
+        "$oid": "6127544eeb4f000041007b16"
+      },
+      "targetGroupName": "JAMAAH ISLAMIYAH",
+      "activityDate": "2021-08-22",
+      "activity": [
+        {
+          "activityTime": "12:40:10",
+          "activityName": "Kajian",
+          "activityDetail": "Kajian bersama kelompok",
+          "accessPoint": {
+            "province": "",
+            "subdistrict": null,
+            "district": null,
+            "village": null,
+            "place": "Rumah ketua target"
+          },
+          "coordinat": {
+            "latitude": "1234",
+            "longitude": "1234"
+          },
+          "cgi": {
+            "provider": "TELKOMSEL",
+            "band": "4G",
+            "gel": "1234",
+            "cellid": "1234"
+          },
+          "vehicle": {
+            "vehicleType": "MOTOR",
+            "vehicleNumber": "B 6122 ZRJ"
+          }
+        },
+        {
+          "activityTime": "15:15:20",
+          "activityName": "Dakwah",
+          "activityDetail": "Dakwah di masjid dekat rumah target",
+          "accessPoint": {
+            "province": null,
+            "subdistrict": null,
+            "district": null,
+            "village": null,
+            "place": "Masjid Nurul Hidayah"
+          },
+          "coordinat": {
+            "latitude": "4321",
+            "longitude": "4321"
+          },
+          "cgi": {
+            "provider": "TELKOMSEL",
+            "band": "4G",
+            "gel": "4321",
+            "cellid": "4321"
+          },
+          "vehicle": {
+            "vehicleType": "MOTOR",
+            "vehicleNumber": "B 6122 ZRJ"
+          }
+        }
+      ],
+      "inassociate": [
+        "BUDI NOVIYANTO",
+        "BUDI NOVIYANTO"
+      ],
+      "gallery": [
+        "gallery/6127544eeb4f000041007b16.jpg",
+        "gallery/6127544eeb4f000041007b16.jpg"
+      ],
+      "caseAgentName": "SATGASWIL DKI JAKARTA",
+      "svteam": [
+        "FAJAR NUR SIDIQ",
+        "ANDRI SUSILO BAMBANG"
+      ],
+      "updated_by": "MOHAMAD IHSAN KAMIL"
+    },
+    {
+      "_id": {
+        "$oid": "612754a9eb4f000041007b17"
+      },
+      "targetGroupName": "JAMAAH ISLAMIYAH",
+      "activityDate": "2021-08-21",
+      "activity": [
+        {
+          "activityTime": null,
+          "activityName": "Kajian",
+          "activityDetail": null,
+          "accessPoint": {
+            "province": null,
+            "subdistrict": null,
+            "district": null,
+            "village": null,
+            "place": null
+          },
+          "coordinat": {
+            "latitude": null,
+            "longitude": null
+          },
+          "cgi": {
+            "provider": null,
+            "band": null,
+            "gel": null,
+            "cellid": null
+          },
+          "vehicle": {
+            "vehicleType": null,
+            "vehicleNumber": "  "
+          }
+        }
+      ],
+      "inassociate": [
+        "BUDI NOVIYANTO"
+      ],
+      "gallery": [
+        "gallery/612754a9eb4f000041007b17.jpg",
+        "gallery/612754a9eb4f000041007b17.jpg",
+        "gallery/612754a9eb4f000041007b17.jpg",
+        "gallery/612754a9eb4f000041007b17.jpg",
+        "gallery/612754a9eb4f000041007b17.jpg"
+      ],
+      "caseAgentName": "DIREKTORAT INTELEJEN",
+      "svteam": [
+        "FAJAR NUR SIDIQ",
+        "ANDRI SUSILO BAMBANG",
+        "BOBBY RAFLY",
+        "AMANDA FARADILA",
+        "AMIN TOHARI SARKUN"
+      ],
+      "updated_by": "MOHAMAD IHSAN KAMIL"
+    },
+    {
+      "targetGroupName": "JAMAAH ISLAMIYAH",
+      "activityDate": "2021-08-26",
+      "activity": [
+        {
+          "activityTime": "19:10:10",
+          "activityName": "Dakwah",
+          "activityDetail": "Dakwah di Istiqlal",
+          "accessPoint": {
+            "province": null,
+            "subdistrict": null,
+            "district": null,
+            "village": null,
+            "place": null
+          },
+          "coordinat": {
+            "latitude": null,
+            "longitude": null
+          },
+          "cgi": {
+            "provider": null,
+            "band": null,
+            "gel": null,
+            "cellid": null
+          },
+          "vehicle": {
+            "vehicleType": null,
+            "vehicleNumber": "  "
+          }
+        }
+      ],
+      "inassociate": [
+        "BUDI NOVIYANTO"
+      ],
+      "gallery": "",
+      "caseAgentName": "SATGASWIL JABAR",
+      "svteam": [
+        "BOBBY RAFLY",
+        "AMANDA FARADILA",
+        "AMIN TOHARI SARKUN"
+      ],
+      "updated_by": "MOHAMAD IHSAN KAMIL"
+    },
+    {
+      "targetGroupName": "JAMAAH ISLAMIYAH",
+      "activityDate": "2021-08-22",
+      "activity": [
+        {
+          "activityTime": "10:10:10",
+          "activityName": "Kajian",
+          "activityDetail": "Kajian bersama",
+          "accessPoint": {
+            "province": null,
+            "subdistrict": null,
+            "district": null,
+            "village": null,
+            "place": null
+          },
+          "coordinat": {
+            "latitude": null,
+            "longitude": null
+          },
+          "cgi": {
+            "provider": null,
+            "band": null,
+            "gel": null,
+            "cellid": null
+          },
+          "vehicle": {
+            "vehicleType": null,
+            "vehicleNumber": "  "
+          }
+        }
+      ],
+      "inassociate": [
+        "BUDI NOVIYANTO"
+      ],
+      "gallery": "",
+      "caseAgentName": "DIREKTORAT INTELEJEN",
+      "svteam": null,
+      "updated_by": "MOHAMAD IHSAN KAMIL"
+    },
+    {
+      "targetGroupName": null,
+      "activityDate": "2021-09-01",
+      "activity": [
+        {
+          "activityTime": "12:06:54",
+          "activityName": "KAJIAN",
+          "activityDetail": "test",
+          "accessPoint": {
+            "province": "",
+            "district": "",
+            "subdistrict": "",
+            "village": "",
+            "place": null
+          },
+          "coordinat": {
+            "latitude": null,
+            "longitude": null
+          },
+          "cgi": {
+            "provider": null,
+            "band": null,
+            "gel": null,
+            "cellid": null
+          },
+          "vehicle": {
+            "vehicleType": null,
+            "vehicleNumber": "  "
+          }
+        },
+        {
+          "activityTime": "13:42:04",
+          "activityName": "DAKWAH",
+          "activityDetail": "test",
+          "accessPoint": {
+            "province": "",
+            "district": "",
+            "subdistrict": "",
+            "village": "",
+            "place": null
+          },
+          "coordinat": {
+            "latitude": null,
+            "longitude": null
+          },
+          "cgi": {
+            "provider": null,
+            "band": null,
+            "gel": null,
+            "cellid": null
+          },
+          "vehicle": {
+            "vehicleType": null,
+            "vehicleNumber": "  "
+          }
+        }
+      ],
+      "inassociate": [
+        "BUDI NOVIYANTO",
+        null
+      ],
+      "gallery": "",
+      "caseAgentName": "SATGASWIL JABAR",
+      "svteam": null,
+      "updated_by": "MOHAMAD IHSAN KAMIL"
+    },
+    {
+      "targetGroupName": null,
+      "activityDate": "2021-08-31",
+      "activity": [
+        {
+          "activityTime": "14:21:24",
+          "activityName": null,
+          "activityDetail": null,
+          "accessPoint": {
+            "province": "",
+            "district": "",
+            "subdistrict": "",
+            "village": "",
+            "place": null
+          },
+          "coordinat": {
+            "latitude": null,
+            "longitude": null
+          },
+          "cgi": {
+            "provider": null,
+            "band": null,
+            "gel": null,
+            "cellid": null
+          },
+          "vehicle": {
+            "vehicleType": null,
+            "vehicleNumber": "  "
+          }
+        },
+        {
+          "activityTime": null,
+          "activityName": null,
+          "activityDetail": null,
+          "accessPoint": {
+            "province": "",
+            "district": "",
+            "subdistrict": "",
+            "village": "",
+            "place": null
+          },
+          "coordinat": {
+            "latitude": null,
+            "longitude": null
+          },
+          "cgi": {
+            "provider": null,
+            "band": null,
+            "gel": null,
+            "cellid": null
+          },
+          "vehicle": {
+            "vehicleType": null,
+            "vehicleNumber": "  "
+          }
+        }
+      ],
+      "inassociate": [
+        "BUDI NOVIYANTO",
+        null
+      ],
+      "gallery": "",
+      "caseAgentName": "DIREKTORAT INTELEJEN",
+      "svteam": null,
+      "updated_by": "MOHAMAD IHSAN KAMIL"
+    },
+    {
+      "targetGroupName": null,
+      "activityDate": "2021-08-31",
+      "activity": [
+        {
+          "activityTime": "03:12:01",
+          "activityName": null,
+          "activityDetail": null,
+          "accessPoint": {
+            "province": "",
+            "district": "",
+            "subdistrict": "",
+            "village": "",
+            "place": null
+          },
+          "coordinat": {
+            "latitude": null,
+            "longitude": null
+          },
+          "cgi": {
+            "provider": null,
+            "band": null,
+            "gel": null,
+            "cellid": null
+          },
+          "vehicle": {
+            "vehicleType": null,
+            "vehicleNumber": "  "
+          }
+        },
+        {
+          "activityTime": null,
+          "activityName": null,
+          "activityDetail": null,
+          "accessPoint": {
+            "province": "",
+            "district": "",
+            "subdistrict": "",
+            "village": "",
+            "place": null
+          },
+          "coordinat": {
+            "latitude": null,
+            "longitude": null
+          },
+          "cgi": {
+            "provider": null,
+            "band": null,
+            "gel": null,
+            "cellid": null
+          },
+          "vehicle": {
+            "vehicleType": null,
+            "vehicleNumber": "  "
+          }
+        },
+        {
+          "activityTime": null,
+          "activityName": null,
+          "activityDetail": null,
+          "accessPoint": {
+            "province": null,
+            "district": "",
+            "subdistrict": "",
+            "village": "",
+            "place": null
+          },
+          "coordinat": {
+            "latitude": null,
+            "longitude": null
+          },
+          "cgi": {
+            "provider": null,
+            "band": null,
+            "gel": null,
+            "cellid": null
+          },
+          "vehicle": {
+            "vehicleType": null,
+            "vehicleNumber": "  "
+          }
+        }
+      ],
+      "inassociate": [
+        "BUDI NOVIYANTO",
+        null,
+        null
+      ],
+      "gallery": "",
+      "caseAgentName": "SATGASWIL JABAR",
+      "svteam": null,
+      "updated_by": "MOHAMAD IHSAN KAMIL"
+    },
+    {
+      "targetGroupName": null,
+      "activityDate": "2021-09-02",
+      "activity": [
+        {
+          "activityTime": "15:15:12",
+          "activityName": null,
+          "activityDetail": null,
+          "accessPoint": {
+            "province": "JAWA BARAT",
+            "district": "KOTA DEPOK",
+            "subdistrict": "BOJONGSARI",
+            "village": "PONDOK PETIR",
+            "place": null
+          },
+          "coordinat": {
+            "latitude": null,
+            "longitude": null
+          },
+          "cgi": {
+            "provider": null,
+            "band": null,
+            "gel": null,
+            "cellid": null
+          },
+          "vehicle": {
+            "vehicleType": null,
+            "vehicleNumber": "  "
+          }
+        },
+        {
+          "activityTime": null,
+          "activityName": null,
+          "activityDetail": null,
+          "accessPoint": {
+            "province": "JAWA BARAT",
+            "district": "KOTA BEKASI",
+            "subdistrict": "RAWALUMBU",
+            "village": "PENGASINAN",
+            "place": null
+          },
+          "coordinat": {
+            "latitude": null,
+            "longitude": null
+          },
+          "cgi": {
+            "provider": null,
+            "band": null,
+            "gel": null,
+            "cellid": null
+          },
+          "vehicle": {
+            "vehicleType": null,
+            "vehicleNumber": "  "
+          }
+        },
+        {
+          "activityTime": null,
+          "activityName": null,
+          "activityDetail": null,
+          "accessPoint": {
+            "province": "DKI JAKARTA",
+            "district": "KOTA ADM. JAKARTA SELATAN",
+            "subdistrict": "MAMPANG PRAPATAN",
+            "village": "BANGKA",
+            "place": null
+          },
+          "coordinat": {
+            "latitude": null,
+            "longitude": null
+          },
+          "cgi": {
+            "provider": null,
+            "band": null,
+            "gel": null,
+            "cellid": null
+          },
+          "vehicle": {
+            "vehicleType": null,
+            "vehicleNumber": "  "
+          }
+        },
+        {
+          "activityTime": null,
+          "activityName": null,
+          "activityDetail": null,
+          "accessPoint": {
+            "province": "SUMATERA SELATAN",
+            "district": "OGAN KOMERING ILIR",
+            "subdistrict": "SIRAH PULAU PADANG",
+            "village": "AWAL TERUSAN",
+            "place": null
+          },
+          "coordinat": {
+            "latitude": null,
+            "longitude": null
+          },
+          "cgi": {
+            "provider": null,
+            "band": null,
+            "gel": null,
+            "cellid": null
+          },
+          "vehicle": {
+            "vehicleType": null,
+            "vehicleNumber": "  "
+          }
+        }
+      ],
+      "inassociate": [
+        "BUDI NOVIYANTO",
+        null,
+        null,
+        null
+      ],
+      "gallery": "",
+      "caseAgentName": "SATGASWIL JABAR",
+      "svteam": null,
+      "updated_by": "MOHAMAD IHSAN KAMIL"
+    },
+    {
+      "targetGroupName": "JAMAAH ISLAMIYAH",
+      "activityDate": "2021-09-01",
+      "activity": [
+        {
+          "activityTime": "12:41:01",
+          "activityName": "KAJIAN",
+          "activityDetail": null,
+          "accessPoint": {
+            "province": "RIAU",
+            "district": "BENGKALIS",
+            "subdistrict": "RUPAT",
+            "village": "TERKUL",
+            "place": "Rumah Target"
+          },
+          "coordinat": {
+            "latitude": "312321321-",
+            "longitude": "23132132.1"
+          },
+          "cgi": {
+            "provider": "TELKOMSEL",
+            "band": "4G",
+            "gel": "2132132",
+            "cellid": "321123"
+          },
+          "vehicle": {
+            "vehicleType": "MOTOR",
+            "vehicleNumber": "B 6212 ZAA"
+          }
+        },
+        {
+          "activityTime": "03:12:01",
+          "activityName": "DAKWAH",
+          "activityDetail": null,
+          "accessPoint": {
+            "province": "SUMATERA BARAT",
+            "district": "SIJUNJUNG",
+            "subdistrict": "LUBUK TAROK",
+            "village": "KAMPUNG DALAM",
+            "place": null
+          },
+          "coordinat": {
+            "latitude": null,
+            "longitude": null
+          },
+          "cgi": {
+            "provider": "TELKOMSEL",
+            "band": "3G",
+            "gel": null,
+            "cellid": null
+          },
+          "vehicle": {
+            "vehicleType": null,
+            "vehicleNumber": "  "
+          }
+        }
+      ],
+      "inassociate": [
+        "UNKNOWN MALE",
+        "UNKNOWN MALE"
+      ],
+      "gallery": [
+        "gallery/6130d9bf1d1a0000f8002a3c.jpg",
+        "gallery/6130d9bf1d1a0000f8002a3c.jpg",
+        "gallery/6130d9bf1d1a0000f8002a3c.jpg"
+      ],
+      "caseAgentName": "SATGASWIL JABAR",
+      "svteam": [
+        "FAJAR NUR SIDIQ",
+        "ANDRI SUSILO BAMBANG",
+        "BOBBY RAFLY",
+        "AMANDA FARADILA",
+        "AMIN TOHARI SARKUN"
+      ],
+      "updated_by": "MOHAMAD IHSAN KAMIL"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61250bb0eb4f000041007a55"
+  },
+  "nik": "3276020029180005",
+  "fullname": "BUDI NOVIYANTO",
+  "placeofbirth": "MANADO",
+  "dateofbirth": "2001-01-31",
+  "gender": "male",
+  "avatar": "avatar/61250bb0eb4f000041007a55.jpg",
+  "asknownas": [
+    "JOHN",
+    "WICK"
+  ],
+  "updated_at": {
+    "$date": "2021-08-24T15:09:36.984Z"
+  },
+  "created_at": {
+    "$date": "2021-08-24T15:09:36.984Z"
+  },
+  "logsv": [
+    {
+      "targetGroupName": "JAMAAH ISLAMIYAH",
+      "activityDate": "19-PM00000012-21",
+      "activity": [
+        {
+          "activityTime": null,
+          "activityName": "Dakwah",
+          "activityDetail": null,
+          "accessPoint": {
+            "province": null,
+            "subdistrict": null,
+            "district": null,
+            "village": null,
+            "place": null
+          },
+          "coordinat": {
+            "latitude": null,
+            "longitude": null
+          },
+          "cgi": {
+            "provider": null,
+            "band": null,
+            "gel": null,
+            "cellid": null
+          },
+          "vehicle": {
+            "vehicleType": null,
+            "vehicleNumber": "  "
+          }
+        }
+      ],
+      "inassociate": [
+        "BUDI NOVIYANTO"
+      ],
+      "gallery": [
+        "gallery/61278345eb4f000041007b1c.jpg",
+        "gallery/61278345eb4f000041007b1c.jpg",
+        "gallery/61278345eb4f000041007b1c.jpg"
+      ],
+      "caseAgentName": "SATGASWIL DKI JAKARTA",
+      "svteam": [
+        "BOBBY RAFLY",
+        "AMANDA FARADILA",
+        "AMIN TOHARI SARKUN"
+      ],
+      "updated_by": "MOHAMAD IHSAN KAMIL"
+    },
+    {
+      "targetGroupName": "JAMAAH ISLAMIYAH",
+      "activityDate": "2021-07-28",
+      "activity": [
+        {
+          "activityTime": "15:15:15",
+          "activityName": "Kajian",
+          "activityDetail": "Kajian di pesantren al khairat",
+          "accessPoint": {
+            "province": "JAWA BARAT",
+            "district": "KOTA BEKASI",
+            "subdistrict": "RAWALUMBU",
+            "village": "PENGASINAN",
+            "place": "Pesantren Al Khairat"
+          },
+          "coordinat": {
+            "latitude": "1234",
+            "longitude": "1234"
+          },
+          "cgi": {
+            "provider": "TELKOMSEL",
+            "band": "4G",
+            "gel": "1234",
+            "cellid": "1234"
+          },
+          "vehicle": {
+            "vehicleType": "MOTOR",
+            "vehicleNumber": "B 6122 ZRJ"
+          }
+        }
+      ],
+      "inassociate": [
+        "UNKNOWN MALE"
+      ],
+      "gallery": [
+        "gallery/612bb718664300004e0041ec.jpg",
+        "gallery/612bb718664300004e0041ec.jpg",
+        "gallery/612bb718664300004e0041ec.jpg"
+      ],
+      "caseAgentName": "SATGASWIL DKI JAKARTA",
+      "svteam": [
+        "BOBBY RAFLY",
+        "AMANDA FARADILA"
+      ],
+      "updated_by": "MOHAMAD IHSAN KAMIL"
+    },
+    {
+      "targetGroupName": "JAMAAH ISLAMIYAH",
+      "activityDate": "2021-08-12",
+      "activity": [
+        {
+          "activityTime": "12:12:12",
+          "activityName": "Kajian",
+          "activityDetail": "Kajian di masjid al azhar",
+          "accessPoint": {
+            "province": "JAWA BARAT",
+            "district": "KOTA BEKASI",
+            "subdistrict": "BEKASI BARAT",
+            "village": "JAKA SAMPURNA",
+            "place": "Masjid Al Azhar"
+          },
+          "coordinat": {
+            "latitude": "1234",
+            "longitude": "1234"
+          },
+          "cgi": {
+            "provider": "TELKOMSEL",
+            "band": "4G",
+            "gel": "1234",
+            "cellid": "1234"
+          },
+          "vehicle": {
+            "vehicleType": "MOTOR",
+            "vehicleNumber": "B 6122 ZRJ"
+          }
+        }
+      ],
+      "inassociate": [
+        "UNKNOWN MALE"
+      ],
+      "gallery": [
+        "gallery/612c1fec664300004e0041ed.jpg"
+      ],
+      "caseAgentName": "SATGASWIL JABAR",
+      "svteam": [
+        "FAJAR NUR SIDIQ",
+        "ANDRI SUSILO BAMBANG",
+        "BOBBY RAFLY"
+      ],
+      "updated_by": "MOHAMAD IHSAN KAMIL"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6130d9211d1a0000f8002a3b"
+  },
+  "nik": "3210291029530291",
+  "fullname": "JONI BUDIMAN",
+  "placeofbirth": "BOGOR",
+  "dateofbirth": "1989-09-01",
+  "gender": "male",
+  "avatar": "avatar/6130d9211d1a0000f8002a3b.jpg",
+  "asknownas": [
+    "BUDI",
+    "MAN",
+    "JON"
+  ],
+  "updated_at": {
+    "$date": "2021-09-02T14:01:05.921Z"
+  },
+  "created_at": {
+    "$date": "2021-09-02T14:01:05.921Z"
+  }
+}]

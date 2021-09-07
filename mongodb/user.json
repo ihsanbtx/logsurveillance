@@ -1,0 +1,148 @@
+[{
+  "_id": {
+    "$oid": "61148b48da550000730041d8"
+  },
+  "fullname": "MOHAMAD IHSAN KAMIL",
+  "nrp": "97010940",
+  "usertype": "Admin",
+  "password": "$2y$10$YogT1gm4jvyXXsXidHkj/eq00rJYYsfO.Rwx5d5OAzya7IiGmP1My",
+  "updated_at": {
+    "$date": "2021-09-02T13:57:07.431Z"
+  },
+  "created_at": {
+    "$date": "2021-08-12T02:45:28.363Z"
+  },
+  "caseagent": "DIREKTORAT INTELEJEN",
+  "email": "ihsanbtx@gmail.com",
+  "nama": "MOHAMAD IHSAN KAMIL",
+  "updated_by": "MOHAMAD IHSAN KAMIL"
+},{
+  "_id": {
+    "$oid": "611619d79e3200003800472c"
+  },
+  "fullname": "JHON WESLY MANURUNG",
+  "nrp": "95010950",
+  "usertype": "Admin",
+  "caseagent": "DIREKTORAT INTELEJEN",
+  "password": "$2y$10$7V47NAarrfYpMXDzepNtr.TkRYlkB0x2GOs8X1Kh2173rItWqaRS2",
+  "updated_at": {
+    "$date": "2021-08-13T07:05:59.936Z"
+  },
+  "created_at": {
+    "$date": "2021-08-13T07:05:59.936Z"
+  },
+  "email": "jhonwesly@gmail.com"
+},{
+  "_id": {
+    "$oid": "61173afb9e32000038004730"
+  },
+  "fullname": "HAMDINA",
+  "nrp": "92019282",
+  "email": "hamdina@gmail.com",
+  "caseagent": "DIREKTORAT INTELEJEN",
+  "usertype": "Admin",
+  "password": "$2y$10$Ok0THKLWJqe8QXbFrEKqj.y9zE2YIM9EaokJKWEexpRA/lFyRQmNW",
+  "updated_at": {
+    "$date": "2021-08-14T03:39:39.137Z"
+  },
+  "created_at": {
+    "$date": "2021-08-14T03:39:39.137Z"
+  }
+},{
+  "_id": {
+    "$oid": "6117b7829e32000038004731"
+  },
+  "fullname": "RUSTAM HARIANTO BERUTU",
+  "nrp": "92019201",
+  "email": "rustam.harianto@gmail.com",
+  "caseagent": "DIREKTORAT INTELEJEN",
+  "usertype": "Admin",
+  "password": "$2y$10$p3klh4XaqNBfFtfyrFFEFOCtJfJsALlRoo.Y6XG58yOq8mjO0oGJC",
+  "updated_at": {
+    "$date": "2021-08-14T12:30:58.510Z"
+  },
+  "created_at": {
+    "$date": "2021-08-14T12:30:58.510Z"
+  }
+},{
+  "_id": {
+    "$oid": "6118da1c9e32000038004734"
+  },
+  "fullname": "BRAHI",
+  "nrp": "92010298",
+  "email": "brahi@gmail.com",
+  "caseagent": "DIREKTORAT INTELEJEN",
+  "usertype": "Admin",
+  "password": "$2y$10$mJ.mNzRkQBwSNWcDCdGcPuRq400blM.1hyGBHrxxZ9NHmMPKwG8zS",
+  "updated_at": {
+    "$date": "2021-08-15T09:10:52.560Z"
+  },
+  "created_at": {
+    "$date": "2021-08-15T09:10:52.560Z"
+  }
+},{
+  "_id": {
+    "$oid": "6118f3ef9e32000038004735"
+  },
+  "fullname": "TRI ANGGA",
+  "nrp": "91029203",
+  "email": "tri.angga@gmail.com",
+  "caseagent": "DIREKTORAT INTELEJEN",
+  "usertype": "Admin",
+  "password": "$2y$10$ud9ksS2Xpa5pLHEW/EFzwuCPhFTeDlCiOERRzDu/hqFtzNJkJtLdi",
+  "updated_at": {
+    "$date": "2021-08-15T11:01:03.410Z"
+  },
+  "created_at": {
+    "$date": "2021-08-15T11:01:03.410Z"
+  }
+},{
+  "_id": {
+    "$oid": "6119fcbe9e3200003800473a"
+  },
+  "fullname": "SEPTA ARIANSYAH",
+  "nrp": "91029201",
+  "email": "septa.ariansyah@gmail.com",
+  "caseagent": "DIREKTORAT INTELEJEN",
+  "usertype": "Admin",
+  "password": "$2y$10$EOyCm3N6zSsIy2eg7HqhseIX5QejU4eZquScUJlFCTCm1vxI4ojvi",
+  "updated_at": {
+    "$date": "2021-08-16T05:50:54.709Z"
+  },
+  "created_at": {
+    "$date": "2021-08-16T05:50:54.709Z"
+  }
+},{
+  "_id": {
+    "$oid": "611c5fcc8d0500002d004fae"
+  },
+  "fullname": "FAJAR DEWANTARA",
+  "nrp": "96021918",
+  "email": "fajardwntr@gmail.com",
+  "caseagent": "SATGASWIL DKI JAKARTA",
+  "usertype": "Operator",
+  "password": "$2y$10$1Dcw1t0p0vjAQsqBwK8YxueyjOjEXaI1.r5wxFpOBOft4fjvh7BTC",
+  "updated_at": {
+    "$date": "2021-08-18T01:18:04.748Z"
+  },
+  "created_at": {
+    "$date": "2021-08-18T01:18:04.748Z"
+  }
+},{
+  "_id": {
+    "$oid": "611c80078d0500002d004fb3"
+  },
+  "nrp": "92019281",
+  "fullname": "BOWO",
+  "usertype": "Operator",
+  "email": "bowoalpenliebe@gmail.com",
+  "caseagent": "DIREKTORAT INTELEJEN",
+  "updated_by": "MOHAMAD IHSAN KAMIL",
+  "password": "$2y$10$LjuEziESAjqaPB059F2PTugK9Nnq9eNK2uOQvTb4ENAdtuanC92ly",
+  "updated_at": {
+    "$date": "2021-08-22T14:48:35.281Z"
+  },
+  "created_at": {
+    "$date": "2021-08-18T03:35:35.018Z"
+  }
+}]

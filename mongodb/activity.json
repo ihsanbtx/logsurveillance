@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6122679fb03a0000dd00304c"
+  },
+  "activityName": "KAJIAN",
+  "updated_by": "MOHAMAD IHSAN KAMIL",
+  "updated_at": {
+    "$date": "2021-08-30T15:20:12.029Z"
+  },
+  "created_at": {
+    "$date": "2021-08-22T15:05:03.912Z"
+  }
+},{
+  "_id": {
+    "$oid": "612267a7b03a0000dd00304d"
+  },
+  "activityName": "DAKWAH",
+  "updated_by": "MOHAMAD IHSAN KAMIL",
+  "updated_at": {
+    "$date": "2021-08-30T15:20:20.552Z"
+  },
+  "created_at": {
+    "$date": "2021-08-22T15:05:11.412Z"
+  }
+}]

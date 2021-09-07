@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "611a1f409e3200003800473e"
+  },
+  "nrp": "81010101",
+  "fullname": "FAJAR NUR SIDIQ",
+  "updated_by": "MOHAMAD IHSAN KAMIL",
+  "updated_at": {
+    "$date": "2021-08-16T08:18:08.971Z"
+  },
+  "created_at": {
+    "$date": "2021-08-16T08:18:08.971Z"
+  }
+},{
+  "_id": {
+    "$oid": "611bc81a8d0500002d004f89"
+  },
+  "nrp": "98092019",
+  "fullname": "ANDRI SUSILO BAMBANG",
+  "updated_by": "MOHAMAD IHSAN KAMIL",
+  "updated_at": {
+    "$date": "2021-08-18T11:29:06.352Z"
+  },
+  "created_at": {
+    "$date": "2021-08-17T14:30:50.869Z"
+  },
+  "update_by": "MOHAMAD IHSAN KAMIL"
+},{
+  "_id": {
+    "$oid": "611bc81a8d0500002d004f8a"
+  },
+  "nrp": "98201910",
+  "fullname": "BOBBY RAFLY",
+  "updated_by": "MOHAMAD IHSAN KAMIL",
+  "updated_at": {
+    "$date": "2021-08-17T14:30:50.873Z"
+  },
+  "created_at": {
+    "$date": "2021-08-17T14:30:50.873Z"
+  }
+},{
+  "_id": {
+    "$oid": "611bcc218d0500002d004f8d"
+  },
+  "nrp": "98092029",
+  "fullname": "AMANDA FARADILA",
+  "updated_by": "MOHAMAD IHSAN KAMIL",
+  "updated_at": {
+    "$date": "2021-08-17T14:48:01.885Z"
+  },
+  "created_at": {
+    "$date": "2021-08-17T14:48:01.885Z"
+  }
+},{
+  "_id": {
+    "$oid": "611bcc218d0500002d004f8e"
+  },
+  "nrp": "98292011",
+  "fullname": "AMIN TOHARI SARKUN",
+  "updated_by": "MOHAMAD IHSAN KAMIL",
+  "updated_at": {
+    "$date": "2021-08-18T11:32:19.664Z"
+  },
+  "created_at": {
+    "$date": "2021-08-17T14:48:01.905Z"
+  },
+  "update_by": "MOHAMAD IHSAN KAMIL"
+},{
+  "_id": {
+    "$oid": "611bdd888d0500002d004fa8"
+  },
+  "nrp": "96120928",
+  "fullname": "DWINDA DESMANDA",
+  "updated_by": "MOHAMAD IHSAN KAMIL",
+  "updated_at": {
+    "$date": "2021-08-17T16:02:16.387Z"
+  },
+  "created_at": {
+    "$date": "2021-08-17T16:02:16.387Z"
+  }
+},{
+  "_id": {
+    "$oid": "611bdd888d0500002d004fa9"
+  },
+  "nrp": "20029181",
+  "fullname": "HAMU",
+  "updated_by": "MOHAMAD IHSAN KAMIL",
+  "updated_at": {
+    "$date": "2021-08-17T16:02:16.410Z"
+  },
+  "created_at": {
+    "$date": "2021-08-17T16:02:16.410Z"
+  }
+},{
+  "_id": {
+    "$oid": "611bdd888d0500002d004faa"
+  },
+  "nrp": "20029182",
+  "fullname": "HABU",
+  "updated_by": "MOHAMAD IHSAN KAMIL",
+  "updated_at": {
+    "$date": "2021-08-17T16:02:16.412Z"
+  },
+  "created_at": {
+    "$date": "2021-08-17T16:02:16.412Z"
+  }
+},{
+  "_id": {
+    "$oid": "611bdd888d0500002d004fab"
+  },
+  "nrp": "20029180",
+  "fullname": "CIDUT",
+  "updated_by": "MOHAMAD IHSAN KAMIL",
+  "updated_at": {
+    "$date": "2021-08-17T16:02:16.413Z"
+  },
+  "created_at": {
+    "$date": "2021-08-17T16:02:16.413Z"
+  }
+},{
+  "_id": {
+    "$oid": "612267cab03a0000dd00304f"
+  },
+  "nrp": "98920191",
+  "fullname": "CIBU",
+  "updated_by": "MOHAMAD IHSAN KAMIL",
+  "updated_at": {
+    "$date": "2021-08-22T15:05:46.410Z"
+  },
+  "created_at": {
+    "$date": "2021-08-22T15:05:46.410Z"
+  }
+}]

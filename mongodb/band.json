@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "611d21aa8d0500002d004fc2"
+  },
+  "bandName": "4G",
+  "updated_by": "MOHAMAD IHSAN KAMIL",
+  "updated_at": {
+    "$date": "2021-08-18T15:05:14.033Z"
+  },
+  "created_at": {
+    "$date": "2021-08-18T15:05:14.033Z"
+  }
+},{
+  "_id": {
+    "$oid": "612d0937664300004e004201"
+  },
+  "bandName": "3G",
+  "updated_by": "MOHAMAD IHSAN KAMIL",
+  "updated_at": {
+    "$date": "2021-08-30T16:37:11.572Z"
+  },
+  "created_at": {
+    "$date": "2021-08-30T16:37:11.572Z"
+  }
+}]

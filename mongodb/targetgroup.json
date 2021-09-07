@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "611d1c3b8d0500002d004fbe"
+  },
+  "targetGroupName": "JAMAAH ISLAMIYAH",
+  "updated_by": "MOHAMAD IHSAN KAMIL",
+  "updated_at": {
+    "$date": "2021-08-18T14:42:03.365Z"
+  },
+  "created_at": {
+    "$date": "2021-08-18T14:42:03.365Z"
+  }
+}]

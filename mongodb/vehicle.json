@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "61226822b03a0000dd003053"
+  },
+  "vehicleType": "MOTOR",
+  "updated_by": "MOHAMAD IHSAN KAMIL",
+  "updated_at": {
+    "$date": "2021-08-22T15:07:14.386Z"
+  },
+  "created_at": {
+    "$date": "2021-08-22T15:07:14.386Z"
+  }
+},{
+  "_id": {
+    "$oid": "612def121d1a0000f8002a19"
+  },
+  "vehicleType": "MOBIL",
+  "updated_by": "MOHAMAD IHSAN KAMIL",
+  "updated_at": {
+    "$date": "2021-08-31T08:57:54.971Z"
+  },
+  "created_at": {
+    "$date": "2021-08-31T08:57:54.971Z"
+  }
+},{
+  "_id": {
+    "$oid": "612def191d1a0000f8002a1a"
+  },
+  "vehicleType": "SEPEDA",
+  "updated_by": "MOHAMAD IHSAN KAMIL",
+  "updated_at": {
+    "$date": "2021-08-31T08:58:01.555Z"
+  },
+  "created_at": {
+    "$date": "2021-08-31T08:58:01.555Z"
+  }
+},{
+  "_id": {
+    "$oid": "612def1f1d1a0000f8002a1b"
+  },
+  "vehicleType": "BUS UMUM",
+  "updated_by": "MOHAMAD IHSAN KAMIL",
+  "updated_at": {
+    "$date": "2021-08-31T08:58:41.910Z"
+  },
+  "created_at": {
+    "$date": "2021-08-31T08:58:07.209Z"
+  }
+}]

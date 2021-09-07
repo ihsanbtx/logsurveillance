@@ -1,0 +1,4113 @@
+[{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94958"
+  },
+  "districtNo": 2,
+  "districtName": "ACEH TENGGARA",
+  "provinceNo": 11,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94959"
+  },
+  "districtNo": 6,
+  "districtName": "ACEH BESAR",
+  "provinceNo": 11,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f9495a"
+  },
+  "districtNo": 8,
+  "districtName": "ACEH UTARA",
+  "provinceNo": 11,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f9495b"
+  },
+  "districtNo": 13,
+  "districtName": "GAYO LUES",
+  "provinceNo": 11,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f9495c"
+  },
+  "districtNo": 15,
+  "districtName": "NAGAN RAYA",
+  "provinceNo": 11,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f9495d"
+  },
+  "districtNo": 17,
+  "districtName": "BENER MERIAH",
+  "provinceNo": 11,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f9495e"
+  },
+  "districtNo": 18,
+  "districtName": "PIDIE JAYA",
+  "provinceNo": 11,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f9495f"
+  },
+  "districtNo": 1,
+  "districtName": "TAPANULI TENGAH",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94960"
+  },
+  "districtNo": 3,
+  "districtName": "TAPANULI SELATAN",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94961"
+  },
+  "districtNo": 4,
+  "districtName": "NIAS",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94962"
+  },
+  "districtNo": 7,
+  "districtName": "DELI SERDANG",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94963"
+  },
+  "districtNo": 8,
+  "districtName": "SIMALUNGUN",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94964"
+  },
+  "districtNo": 9,
+  "districtName": "ASAHAN",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94965"
+  },
+  "districtNo": 12,
+  "districtName": "TOBA SAMOSIR",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94966"
+  },
+  "districtNo": 15,
+  "districtName": "PAKPAK BHARAT",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94967"
+  },
+  "districtNo": 16,
+  "districtName": "HUMBANG HASUNDUTAN",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94968"
+  },
+  "districtNo": 21,
+  "districtName": "PADANG LAWAS",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94969"
+  },
+  "districtNo": 22,
+  "districtName": "LABUHANBATU SELATAN",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f9496a"
+  },
+  "districtNo": 24,
+  "districtName": "NIAS UTARA",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f9496b"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA MEDAN",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f9496c"
+  },
+  "districtNo": 72,
+  "districtName": "KOTA PEMATANG SIANTAR",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f9496d"
+  },
+  "districtNo": 74,
+  "districtName": "KOTA TANJUNG BALAI",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f9496e"
+  },
+  "districtNo": 75,
+  "districtName": "KOTA BINJAI",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f9496f"
+  },
+  "districtNo": 78,
+  "districtName": "KOTA GUNUNGSITOLI",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94970"
+  },
+  "districtNo": 2,
+  "districtName": "SOLOK",
+  "provinceNo": 13,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94971"
+  },
+  "districtNo": 8,
+  "districtName": "PASAMAN",
+  "provinceNo": 13,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94972"
+  },
+  "districtNo": 9,
+  "districtName": "KEPULAUAN MENTAWAI",
+  "provinceNo": 13,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94973"
+  },
+  "districtNo": 10,
+  "districtName": "DHARMASRAYA",
+  "provinceNo": 13,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94974"
+  },
+  "districtNo": 75,
+  "districtName": "KOTA BUKITTINGGI",
+  "provinceNo": 13,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94975"
+  },
+  "districtNo": 1,
+  "districtName": "KAMPAR",
+  "provinceNo": 14,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94976"
+  },
+  "districtNo": 4,
+  "districtName": "INDRAGIRI HILIR",
+  "provinceNo": 14,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94977"
+  },
+  "districtNo": 5,
+  "districtName": "PELALAWAN",
+  "provinceNo": 14,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94978"
+  },
+  "districtNo": 1,
+  "districtName": "KERINCI",
+  "provinceNo": 15,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94979"
+  },
+  "districtNo": 2,
+  "districtName": "MERANGIN",
+  "provinceNo": 15,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f9497a"
+  },
+  "districtNo": 3,
+  "districtName": "SAROLANGUN",
+  "provinceNo": 15,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f9497b"
+  },
+  "districtNo": 4,
+  "districtName": "BATANGHARI",
+  "provinceNo": 15,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f9497c"
+  },
+  "districtNo": 5,
+  "districtName": "MUARO JAMBI",
+  "provinceNo": 15,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f9497d"
+  },
+  "districtNo": 6,
+  "districtName": "TANJUNG JABUNG BARAT",
+  "provinceNo": 15,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f9497e"
+  },
+  "districtNo": 7,
+  "districtName": "TANJUNG JABUNG TIMUR",
+  "provinceNo": 15,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f9497f"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA JAMBI",
+  "provinceNo": 15,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94980"
+  },
+  "districtNo": 2,
+  "districtName": "OGAN KOMERING ILIR",
+  "provinceNo": 16,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94981"
+  },
+  "districtNo": 4,
+  "districtName": "LAHAT",
+  "provinceNo": 16,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94982"
+  },
+  "districtNo": 8,
+  "districtName": "OGAN KOMERING ULU TIMUR",
+  "provinceNo": 16,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94983"
+  },
+  "districtNo": 9,
+  "districtName": "OGAN KOMERING ULU SELATAN",
+  "provinceNo": 16,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94984"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA PALEMBANG",
+  "provinceNo": 16,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94985"
+  },
+  "districtNo": 72,
+  "districtName": "KOTA PAGAR ALAM",
+  "provinceNo": 16,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94986"
+  },
+  "districtNo": 73,
+  "districtName": "KOTA LUBUK LINGGAU",
+  "provinceNo": 16,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94987"
+  },
+  "districtNo": 74,
+  "districtName": "KOTA PRABUMULIH",
+  "provinceNo": 16,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94988"
+  },
+  "districtNo": 2,
+  "districtName": "REJANG LEBONG",
+  "provinceNo": 17,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94989"
+  },
+  "districtNo": 4,
+  "districtName": "KAUR",
+  "provinceNo": 17,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f9498a"
+  },
+  "districtNo": 6,
+  "districtName": "MUKO MUKO",
+  "provinceNo": 17,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f9498b"
+  },
+  "districtNo": 7,
+  "districtName": "LEBONG",
+  "provinceNo": 17,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f9498c"
+  },
+  "districtNo": 8,
+  "districtName": "KEPAHIANG",
+  "provinceNo": 17,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f9498d"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA BENGKULU",
+  "provinceNo": 17,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f9498e"
+  },
+  "districtNo": 1,
+  "districtName": "LAMPUNG SELATAN",
+  "provinceNo": 18,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f9498f"
+  },
+  "districtNo": 2,
+  "districtName": "LAMPUNG TENGAH",
+  "provinceNo": 18,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94990"
+  },
+  "districtNo": 5,
+  "districtName": "TULANG BAWANG",
+  "provinceNo": 18,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94991"
+  },
+  "districtNo": 6,
+  "districtName": "TANGGAMUS",
+  "provinceNo": 18,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94992"
+  },
+  "districtNo": 9,
+  "districtName": "PESAWARAN",
+  "provinceNo": 18,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94993"
+  },
+  "districtNo": 11,
+  "districtName": "MESUJI",
+  "provinceNo": 18,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94994"
+  },
+  "districtNo": 12,
+  "districtName": "TULANG BAWANG BARAT",
+  "provinceNo": 18,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94995"
+  },
+  "districtNo": 13,
+  "districtName": "PESISIR BARAT",
+  "provinceNo": 18,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94996"
+  },
+  "districtNo": 3,
+  "districtName": "BANGKA SELATAN",
+  "provinceNo": 19,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94997"
+  },
+  "districtNo": 4,
+  "districtName": "BANGKA TENGAH",
+  "provinceNo": 19,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94998"
+  },
+  "districtNo": 5,
+  "districtName": "BANGKA BARAT",
+  "provinceNo": 19,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94999"
+  },
+  "districtNo": 6,
+  "districtName": "BELITUNG TIMUR",
+  "provinceNo": 19,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f9499a"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA PANGKAL PINANG",
+  "provinceNo": 19,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f9499b"
+  },
+  "districtNo": 1,
+  "districtName": "BINTAN",
+  "provinceNo": 21,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f9499c"
+  },
+  "districtNo": 2,
+  "districtName": "KARIMUN",
+  "provinceNo": 21,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f9499d"
+  },
+  "districtNo": 4,
+  "districtName": "LINGGA",
+  "provinceNo": 21,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f9499e"
+  },
+  "districtNo": 72,
+  "districtName": "KOTA TANJUNG PINANG",
+  "provinceNo": 21,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f9499f"
+  },
+  "districtNo": 76,
+  "districtName": "ADM. KEP. SERIBU",
+  "provinceNo": 31,
+  "updated_by": "MOHAMAD IHSAN KAMIL"
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949a0"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA ADM. JAKARTA PUSAT",
+  "provinceNo": 31,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949a1"
+  },
+  "districtNo": 12,
+  "districtName": "KAB PEGUNUNGAN BINTANG",
+  "provinceNo": 91,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949a2"
+  },
+  "districtNo": 13,
+  "districtName": "YAHUKIMO",
+  "provinceNo": 91,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949a3"
+  },
+  "districtNo": 15,
+  "districtName": "WAROPEN",
+  "provinceNo": 91,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949a4"
+  },
+  "districtNo": 16,
+  "districtName": "BOVEN DIGOEL",
+  "provinceNo": 91,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949a5"
+  },
+  "districtNo": 17,
+  "districtName": "MAPPI",
+  "provinceNo": 91,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949a6"
+  },
+  "districtNo": 18,
+  "districtName": "ASMAT",
+  "provinceNo": 91,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949a7"
+  },
+  "districtNo": 19,
+  "districtName": "SUPIORI",
+  "provinceNo": 91,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949a8"
+  },
+  "districtNo": 20,
+  "districtName": "MAMBERAMO RAYA",
+  "provinceNo": 91,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949a9"
+  },
+  "districtNo": 21,
+  "districtName": "MAMBERAMO TENGAH",
+  "provinceNo": 91,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949aa"
+  },
+  "districtNo": 22,
+  "districtName": "YALIMO",
+  "provinceNo": 91,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949ab"
+  },
+  "districtNo": 23,
+  "districtName": "LANNY JAYA",
+  "provinceNo": 91,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949ac"
+  },
+  "districtNo": 24,
+  "districtName": "NDUGA",
+  "provinceNo": 91,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949ad"
+  },
+  "districtNo": 25,
+  "districtName": "PUNCAK",
+  "provinceNo": 91,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949ae"
+  },
+  "districtNo": 26,
+  "districtName": "DOGIYAI",
+  "provinceNo": 91,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949af"
+  },
+  "districtNo": 27,
+  "districtName": "INTAN JAYA",
+  "provinceNo": 91,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949b0"
+  },
+  "districtNo": 28,
+  "districtName": "DEIYAI",
+  "provinceNo": 91,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949b1"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA JAYAPURA",
+  "provinceNo": 91,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949b2"
+  },
+  "districtNo": 1,
+  "districtName": "SORONG",
+  "provinceNo": 92,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949b3"
+  },
+  "districtNo": 2,
+  "districtName": "MANOKWARI",
+  "provinceNo": 92,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949b4"
+  },
+  "districtNo": 6,
+  "districtName": "TELUK BINTUNI",
+  "provinceNo": 92,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949b5"
+  },
+  "districtNo": 7,
+  "districtName": "TELUK WONDAMA",
+  "provinceNo": 92,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949b6"
+  },
+  "districtNo": 9,
+  "districtName": "TAMBRAUW",
+  "provinceNo": 92,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949b7"
+  },
+  "districtNo": 12,
+  "districtName": "PEGUNUNGAN ARFAK",
+  "provinceNo": 92,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949b8"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA SORONG",
+  "provinceNo": 92,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949b9"
+  },
+  "districtNo": 75,
+  "districtName": "KOTA BEKASI",
+  "provinceNo": 32,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949ba"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA KENDARI",
+  "provinceNo": 74,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949bb"
+  },
+  "districtNo": 5,
+  "districtName": "DOMPU",
+  "provinceNo": 52,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949bc"
+  },
+  "districtNo": 72,
+  "districtName": "KOTA SABANG",
+  "provinceNo": 11,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949bd"
+  },
+  "districtNo": 3,
+  "districtName": "BONE BOLANGO",
+  "provinceNo": 75,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949be"
+  },
+  "districtNo": 1,
+  "districtName": "HALMAHERA BARAT",
+  "provinceNo": 82,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949bf"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA KUPANG",
+  "provinceNo": 53,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949c0"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA BANDA ACEH",
+  "provinceNo": 11,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949c1"
+  },
+  "districtNo": 6,
+  "districtName": "PURWOREJO",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949c2"
+  },
+  "districtNo": 26,
+  "districtName": "BANGKALAN",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949c3"
+  },
+  "districtNo": 73,
+  "districtName": "KOTA SAWAHLUNTO",
+  "provinceNo": 13,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949c4"
+  },
+  "districtNo": 2,
+  "districtName": "KONAWE",
+  "provinceNo": 74,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949c5"
+  },
+  "districtNo": 10,
+  "districtName": "KEPULAUAN MERANTI",
+  "provinceNo": 14,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949c6"
+  },
+  "districtNo": 5,
+  "districtName": "KEPULAUAN ANAMBAS",
+  "provinceNo": 21,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949c7"
+  },
+  "districtNo": 2,
+  "districtName": "TAPANULI UTARA",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949c8"
+  },
+  "districtNo": 7,
+  "districtName": "SERUYAN",
+  "provinceNo": 62,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949c9"
+  },
+  "districtNo": 16,
+  "districtName": "MOJOKERTO",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949ca"
+  },
+  "districtNo": 17,
+  "districtName": "JOMBANG",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949cb"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA PEKANBARU",
+  "provinceNo": 14,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949cc"
+  },
+  "districtNo": 8,
+  "districtName": "KOLAKA UTARA",
+  "provinceNo": 74,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949cd"
+  },
+  "districtNo": 9,
+  "districtName": "KEP. SIAU TAGULANDANG BIARO",
+  "provinceNo": 71,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949ce"
+  },
+  "districtNo": 1,
+  "districtName": "OGAN KOMERING ULU",
+  "provinceNo": 16,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949cf"
+  },
+  "districtNo": 13,
+  "districtName": "SUBANG",
+  "provinceNo": 32,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949d0"
+  },
+  "districtNo": 9,
+  "districtName": "BOYOLALI",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949d1"
+  },
+  "districtNo": 76,
+  "districtName": "KOTA MOJOKERTO",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949d2"
+  },
+  "districtNo": 73,
+  "districtName": "KOTA SALATIGA",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949d3"
+  },
+  "districtNo": 11,
+  "districtName": "SOLOK SELATAN",
+  "provinceNo": 13,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949d4"
+  },
+  "districtNo": 5,
+  "districtName": "TAKALAR",
+  "provinceNo": 73,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949d5"
+  },
+  "districtNo": 6,
+  "districtName": "HULU SUNGAI SELATAN",
+  "provinceNo": 63,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949d6"
+  },
+  "districtNo": 72,
+  "districtName": "KOTA SUKABUMI",
+  "provinceNo": 32,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949d7"
+  },
+  "districtNo": 4,
+  "districtName": "BURU",
+  "provinceNo": 81,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949d8"
+  },
+  "districtNo": 72,
+  "districtName": "KOTA CILEGON",
+  "provinceNo": 36,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949d9"
+  },
+  "districtNo": 16,
+  "districtName": "ENREKANG",
+  "provinceNo": 73,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949da"
+  },
+  "districtNo": 12,
+  "districtName": "SOPPENG",
+  "provinceNo": 73,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949db"
+  },
+  "districtNo": 14,
+  "districtName": "NIAS SELATAN",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949dc"
+  },
+  "districtNo": 7,
+  "districtName": "BENGKAYANG",
+  "provinceNo": 61,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949dd"
+  },
+  "districtNo": 4,
+  "districtName": "ACEH TENGAH",
+  "provinceNo": 11,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949de"
+  },
+  "districtNo": 6,
+  "districtName": "TASIKMALAYA",
+  "provinceNo": 32,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949df"
+  },
+  "districtNo": 74,
+  "districtName": "KOTA KOTAMOBAGU",
+  "provinceNo": 71,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949e0"
+  },
+  "districtNo": 13,
+  "districtName": "MUSI RAWAS UTARA",
+  "provinceNo": 16,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949e1"
+  },
+  "districtNo": 72,
+  "districtName": "KOTA SOLOK",
+  "provinceNo": 13,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949e2"
+  },
+  "districtNo": 7,
+  "districtName": "HULU SUNGAI TENGAH",
+  "provinceNo": 63,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949e3"
+  },
+  "districtNo": 2,
+  "districtName": "INDRAGIRI HULU",
+  "provinceNo": 14,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949e4"
+  },
+  "districtNo": 9,
+  "districtName": "SIMEULUE",
+  "provinceNo": 11,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949e5"
+  },
+  "districtNo": 11,
+  "districtName": "EMPAT LAWANG",
+  "provinceNo": 16,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949e6"
+  },
+  "districtNo": 9,
+  "districtName": "PENAJAM PASER UTARA",
+  "provinceNo": 64,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949e7"
+  },
+  "districtNo": 9,
+  "districtName": "MIMIKA",
+  "provinceNo": 91,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949e8"
+  },
+  "districtNo": 6,
+  "districtName": "SERAM BAGIAN BARAT",
+  "provinceNo": 81,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949e9"
+  },
+  "districtNo": 9,
+  "districtName": "BENGKULU TENGAH",
+  "provinceNo": 17,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949ea"
+  },
+  "districtNo": 7,
+  "districtName": "LAMPUNG TIMUR",
+  "provinceNo": 18,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949eb"
+  },
+  "districtNo": 73,
+  "districtName": "KOTA MALANG",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949ec"
+  },
+  "districtNo": 19,
+  "districtName": "BATU BARA",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949ed"
+  },
+  "districtNo": 4,
+  "districtName": "BARITO SELATAN",
+  "provinceNo": 62,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949ee"
+  },
+  "districtNo": 2,
+  "districtName": "LEBAK",
+  "provinceNo": 36,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949ef"
+  },
+  "districtNo": 12,
+  "districtName": "ACEH BARAT DAYA",
+  "provinceNo": 11,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949f0"
+  },
+  "districtNo": 78,
+  "districtName": "KOTA TASIKMALAYA",
+  "provinceNo": 32,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949f1"
+  },
+  "districtNo": 1,
+  "districtName": "BENGKULU SELATAN",
+  "provinceNo": 17,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949f2"
+  },
+  "districtNo": 13,
+  "districtName": "MANDAILING NATAL",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949f3"
+  },
+  "districtNo": 7,
+  "districtName": "KARANGASEM",
+  "provinceNo": 51,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949f4"
+  },
+  "districtNo": 72,
+  "districtName": "KOTA BLITAR",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949f5"
+  },
+  "districtNo": 8,
+  "districtName": "KUTAI TIMUR",
+  "provinceNo": 64,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949f6"
+  },
+  "districtNo": 5,
+  "districtName": "GARUT",
+  "provinceNo": 32,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949f7"
+  },
+  "districtNo": 72,
+  "districtName": "KOTA TIDORE KEPULAUAN",
+  "provinceNo": 82,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949f8"
+  },
+  "districtNo": 12,
+  "districtName": "PASAMAN BARAT",
+  "provinceNo": 13,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949f9"
+  },
+  "districtNo": 6,
+  "districtName": "BOMBANA",
+  "provinceNo": 74,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949fa"
+  },
+  "districtNo": 3,
+  "districtName": "JAYAPURA",
+  "provinceNo": 91,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949fb"
+  },
+  "districtNo": 6,
+  "districtName": "KARO",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949fc"
+  },
+  "districtNo": 5,
+  "districtName": "SELUMA",
+  "provinceNo": 17,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949fd"
+  },
+  "districtNo": 23,
+  "districtName": "LABUHANBATU UTARA",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949fe"
+  },
+  "districtNo": 4,
+  "districtName": "KETAPANG",
+  "provinceNo": 61,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f949ff"
+  },
+  "districtNo": 6,
+  "districtName": "AGAM",
+  "provinceNo": 13,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a00"
+  },
+  "districtNo": 76,
+  "districtName": "KOTA TEGAL",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a01"
+  },
+  "districtNo": 24,
+  "districtName": "LAMONGAN",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a02"
+  },
+  "districtNo": 2,
+  "districtName": "MINAHASA",
+  "provinceNo": 71,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a03"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA BATAM",
+  "provinceNo": 21,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a04"
+  },
+  "districtNo": 1,
+  "districtName": "KOTAWARINGIN BARAT",
+  "provinceNo": 62,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a05"
+  },
+  "districtNo": 1,
+  "districtName": "GORONTALO",
+  "provinceNo": 75,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a06"
+  },
+  "districtNo": 72,
+  "districtName": "KOTA ADM. JAKARTA UTARA",
+  "provinceNo": 31,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a09"
+  },
+  "districtNo": 75,
+  "districtName": "KOTA ADM. JAKARTA TIMUR",
+  "provinceNo": 31,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a0a"
+  },
+  "districtNo": 1,
+  "districtName": "BOGOR",
+  "provinceNo": 32,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a0b"
+  },
+  "districtNo": 2,
+  "districtName": "SUKABUMI",
+  "provinceNo": 32,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a0c"
+  },
+  "districtNo": 3,
+  "districtName": "CIANJUR",
+  "provinceNo": 32,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a0d"
+  },
+  "districtNo": 12,
+  "districtName": "INDRAMAYU",
+  "provinceNo": 32,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a0e"
+  },
+  "districtNo": 15,
+  "districtName": "KARAWANG",
+  "provinceNo": 32,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a0f"
+  },
+  "districtNo": 17,
+  "districtName": "BANDUNG BARAT",
+  "provinceNo": 32,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a10"
+  },
+  "districtNo": 74,
+  "districtName": "KOTA CIREBON",
+  "provinceNo": 32,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a11"
+  },
+  "districtNo": 77,
+  "districtName": "KOTA CIMAHI",
+  "provinceNo": 32,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a12"
+  },
+  "districtNo": 79,
+  "districtName": "KOTA BANJAR",
+  "provinceNo": 32,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a13"
+  },
+  "districtNo": 3,
+  "districtName": "PURBALINGGA",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a14"
+  },
+  "districtNo": 10,
+  "districtName": "KLATEN",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a15"
+  },
+  "districtNo": 11,
+  "districtName": "SUKOHARJO",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a16"
+  },
+  "districtNo": 12,
+  "districtName": "WONOGIRI",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a17"
+  },
+  "districtNo": 13,
+  "districtName": "KARANGANYAR",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a18"
+  },
+  "districtNo": 17,
+  "districtName": "REMBANG",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a19"
+  },
+  "districtNo": 19,
+  "districtName": "KUDUS",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a1a"
+  },
+  "districtNo": 22,
+  "districtName": "SEMARANG",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a1b"
+  },
+  "districtNo": 23,
+  "districtName": "TEMANGGUNG",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a1c"
+  },
+  "districtNo": 24,
+  "districtName": "KENDAL",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a1d"
+  },
+  "districtNo": 25,
+  "districtName": "BATANG",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a1e"
+  },
+  "districtNo": 26,
+  "districtName": "PEKALONGAN",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a1f"
+  },
+  "districtNo": 29,
+  "districtName": "BREBES",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a20"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA MAGELANG",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a21"
+  },
+  "districtNo": 72,
+  "districtName": "KOTA SURAKARTA",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a22"
+  },
+  "districtNo": 1,
+  "districtName": "KULON PROGO",
+  "provinceNo": 34,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a23"
+  },
+  "districtNo": 2,
+  "districtName": "BANTUL",
+  "provinceNo": 34,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a24"
+  },
+  "districtNo": 3,
+  "districtName": "GUNUNG KIDUL",
+  "provinceNo": 34,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a25"
+  },
+  "districtNo": 4,
+  "districtName": "SLEMAN",
+  "provinceNo": 34,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a26"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA YOGYAKARTA",
+  "provinceNo": 34,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a27"
+  },
+  "districtNo": 1,
+  "districtName": "PACITAN",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a28"
+  },
+  "districtNo": 5,
+  "districtName": "BLITAR",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a29"
+  },
+  "districtNo": 10,
+  "districtName": "BANYUWANGI",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a2a"
+  },
+  "districtNo": 11,
+  "districtName": "BONDOWOSO",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a2b"
+  },
+  "districtNo": 12,
+  "districtName": "SITUBONDO",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a2c"
+  },
+  "districtNo": 13,
+  "districtName": "PROBOLINGGO",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a2d"
+  },
+  "districtNo": 14,
+  "districtName": "PASURUAN",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a2e"
+  },
+  "districtNo": 18,
+  "districtName": "NGANJUK",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a2f"
+  },
+  "districtNo": 20,
+  "districtName": "MAGETAN",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a30"
+  },
+  "districtNo": 23,
+  "districtName": "TUBAN",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a31"
+  },
+  "districtNo": 25,
+  "districtName": "GRESIK",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a32"
+  },
+  "districtNo": 28,
+  "districtName": "PAMEKASAN",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a33"
+  },
+  "districtNo": 29,
+  "districtName": "SUMENEP",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a34"
+  },
+  "districtNo": 74,
+  "districtName": "KOTA PROBOLINGGO",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a35"
+  },
+  "districtNo": 78,
+  "districtName": "KOTA SURABAYA",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a36"
+  },
+  "districtNo": 79,
+  "districtName": "KOTA BATU",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a37"
+  },
+  "districtNo": 1,
+  "districtName": "PANDEGLANG",
+  "provinceNo": 36,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a38"
+  },
+  "districtNo": 3,
+  "districtName": "TANGERANG",
+  "provinceNo": 36,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a39"
+  },
+  "districtNo": 73,
+  "districtName": "KOTA SERANG",
+  "provinceNo": 36,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a3a"
+  },
+  "districtNo": 74,
+  "districtName": "KOTA TANGERANG SELATAN",
+  "provinceNo": 36,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a3b"
+  },
+  "districtNo": 2,
+  "districtName": "TABANAN",
+  "provinceNo": 51,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a3c"
+  },
+  "districtNo": 6,
+  "districtName": "BANGLI",
+  "provinceNo": 51,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a3d"
+  },
+  "districtNo": 8,
+  "districtName": "BULELENG",
+  "provinceNo": 51,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a3e"
+  },
+  "districtNo": 4,
+  "districtName": "SUMBAWA",
+  "provinceNo": 52,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a3f"
+  },
+  "districtNo": 6,
+  "districtName": "BIMA",
+  "provinceNo": 52,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a40"
+  },
+  "districtNo": 8,
+  "districtName": "LOMBOK UTARA",
+  "provinceNo": 52,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a41"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA MATARAM",
+  "provinceNo": 52,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a42"
+  },
+  "districtNo": 72,
+  "districtName": "KOTA BIMA",
+  "provinceNo": 52,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a43"
+  },
+  "districtNo": 1,
+  "districtName": "KUPANG",
+  "provinceNo": 53,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a44"
+  },
+  "districtNo": 2,
+  "districtName": "KAB TIMOR TENGAH SELATAN",
+  "provinceNo": 53,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a45"
+  },
+  "districtNo": 3,
+  "districtName": "TIMOR TENGAH UTARA",
+  "provinceNo": 53,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a46"
+  },
+  "districtNo": 4,
+  "districtName": "BELU",
+  "provinceNo": 53,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a47"
+  },
+  "districtNo": 5,
+  "districtName": "ALOR",
+  "provinceNo": 53,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a48"
+  },
+  "districtNo": 7,
+  "districtName": "SIKKA",
+  "provinceNo": 53,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a49"
+  },
+  "districtNo": 8,
+  "districtName": "ENDE",
+  "provinceNo": 53,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a4a"
+  },
+  "districtNo": 9,
+  "districtName": "NGADA",
+  "provinceNo": 53,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a4b"
+  },
+  "districtNo": 10,
+  "districtName": "MANGGARAI",
+  "provinceNo": 53,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a4c"
+  },
+  "districtNo": 12,
+  "districtName": "SUMBA BARAT",
+  "provinceNo": 53,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a4d"
+  },
+  "districtNo": 13,
+  "districtName": "LEMBATA",
+  "provinceNo": 53,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a4e"
+  },
+  "districtNo": 14,
+  "districtName": "ROTE NDAO",
+  "provinceNo": 53,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a4f"
+  },
+  "districtNo": 15,
+  "districtName": "MANGGARAI BARAT",
+  "provinceNo": 53,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a50"
+  },
+  "districtNo": 19,
+  "districtName": "MANGGARAI TIMUR",
+  "provinceNo": 53,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a51"
+  },
+  "districtNo": 20,
+  "districtName": "SABU RAIJUA",
+  "provinceNo": 53,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a52"
+  },
+  "districtNo": 1,
+  "districtName": "SAMBAS",
+  "provinceNo": 61,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a53"
+  },
+  "districtNo": 2,
+  "districtName": "MEMPAWAH",
+  "provinceNo": 61,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a54"
+  },
+  "districtNo": 5,
+  "districtName": "SINTANG",
+  "provinceNo": 61,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a55"
+  },
+  "districtNo": 6,
+  "districtName": "KAPUAS HULU",
+  "provinceNo": 61,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a56"
+  },
+  "districtNo": 10,
+  "districtName": "MELAWI",
+  "provinceNo": 61,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a57"
+  },
+  "districtNo": 72,
+  "districtName": "KOTA SINGKAWANG",
+  "provinceNo": 61,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a58"
+  },
+  "districtNo": 5,
+  "districtName": "BARITO UTARA",
+  "provinceNo": 62,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a59"
+  },
+  "districtNo": 8,
+  "districtName": "SUKAMARA",
+  "provinceNo": 62,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a5a"
+  },
+  "districtNo": 11,
+  "districtName": "PULANG PISAU",
+  "provinceNo": 62,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a5b"
+  },
+  "districtNo": 13,
+  "districtName": "BARITO TIMUR",
+  "provinceNo": 62,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a5c"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA PALANGKARAYA",
+  "provinceNo": 62,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a5d"
+  },
+  "districtNo": 1,
+  "districtName": "TANAH LAUT",
+  "provinceNo": 63,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a5e"
+  },
+  "districtNo": 2,
+  "districtName": "KOTABARU",
+  "provinceNo": 63,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a5f"
+  },
+  "districtNo": 3,
+  "districtName": "BANJAR",
+  "provinceNo": 63,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a60"
+  },
+  "districtNo": 10,
+  "districtName": "TANAH BUMBU",
+  "provinceNo": 63,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a61"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA BANJARMASIN",
+  "provinceNo": 63,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a62"
+  },
+  "districtNo": 1,
+  "districtName": "PASER",
+  "provinceNo": 64,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a63"
+  },
+  "districtNo": 3,
+  "districtName": "BERAU",
+  "provinceNo": 64,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a64"
+  },
+  "districtNo": 7,
+  "districtName": "KUTAI BARAT",
+  "provinceNo": 64,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a65"
+  },
+  "districtNo": 11,
+  "districtName": "MAHAKAM ULU",
+  "provinceNo": 64,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a66"
+  },
+  "districtNo": 2,
+  "districtName": "MALINAU",
+  "provinceNo": 65,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a67"
+  },
+  "districtNo": 3,
+  "districtName": "NUNUKAN",
+  "provinceNo": 65,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a68"
+  },
+  "districtNo": 1,
+  "districtName": "BOLAANG MONGONDOW",
+  "provinceNo": 71,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a69"
+  },
+  "districtNo": 3,
+  "districtName": "KEPULAUAN SANGIHE",
+  "provinceNo": 71,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a6a"
+  },
+  "districtNo": 5,
+  "districtName": "MINAHASA SELATAN",
+  "provinceNo": 71,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a6b"
+  },
+  "districtNo": 6,
+  "districtName": "MINAHASA UTARA",
+  "provinceNo": 71,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a6c"
+  },
+  "districtNo": 7,
+  "districtName": "MINAHASA TENGGARA",
+  "provinceNo": 71,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a6d"
+  },
+  "districtNo": 8,
+  "districtName": "BOLAANG MONGONDOW UTARA",
+  "provinceNo": 71,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a6e"
+  },
+  "districtNo": 11,
+  "districtName": "BOLAANG MONGONDOW SELATAN",
+  "provinceNo": 71,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a6f"
+  },
+  "districtNo": 72,
+  "districtName": "KOTA BITUNG",
+  "provinceNo": 71,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a70"
+  },
+  "districtNo": 73,
+  "districtName": "KOTA TOMOHON",
+  "provinceNo": 71,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a71"
+  },
+  "districtNo": 2,
+  "districtName": "POSO",
+  "provinceNo": 72,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a72"
+  },
+  "districtNo": 3,
+  "districtName": "DONGGALA",
+  "provinceNo": 72,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a73"
+  },
+  "districtNo": 4,
+  "districtName": "TOLI TOLI",
+  "provinceNo": 72,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a74"
+  },
+  "districtNo": 5,
+  "districtName": "BUOL",
+  "provinceNo": 72,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a75"
+  },
+  "districtNo": 7,
+  "districtName": "BANGGAI KEPULAUAN",
+  "provinceNo": 72,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a76"
+  },
+  "districtNo": 8,
+  "districtName": "PARIGI MOUTONG",
+  "provinceNo": 72,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a77"
+  },
+  "districtNo": 9,
+  "districtName": "TOJO UNA UNA",
+  "provinceNo": 72,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a78"
+  },
+  "districtNo": 11,
+  "districtName": "BANGGAI LAUT",
+  "provinceNo": 72,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a79"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA PALU",
+  "provinceNo": 72,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a7a"
+  },
+  "districtNo": 1,
+  "districtName": "KEPULAUAN SELAYAR",
+  "provinceNo": 73,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a7b"
+  },
+  "districtNo": 3,
+  "districtName": "BANTAENG",
+  "provinceNo": 73,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a7c"
+  },
+  "districtNo": 6,
+  "districtName": "GOWA",
+  "provinceNo": 73,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a7d"
+  },
+  "districtNo": 7,
+  "districtName": "SINJAI",
+  "provinceNo": 73,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a7e"
+  },
+  "districtNo": 8,
+  "districtName": "BONE",
+  "provinceNo": 73,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a7f"
+  },
+  "districtNo": 10,
+  "districtName": "PANGKAJENE KEPULAUAN",
+  "provinceNo": 73,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a80"
+  },
+  "districtNo": 15,
+  "districtName": "PINRANG",
+  "provinceNo": 73,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a81"
+  },
+  "districtNo": 17,
+  "districtName": "LUWU",
+  "provinceNo": 73,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a82"
+  },
+  "districtNo": 18,
+  "districtName": "TANA TORAJA",
+  "provinceNo": 73,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a83"
+  },
+  "districtNo": 22,
+  "districtName": "LUWU UTARA",
+  "provinceNo": 73,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a84"
+  },
+  "districtNo": 24,
+  "districtName": "LUWU TIMUR",
+  "provinceNo": 73,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a85"
+  },
+  "districtNo": 26,
+  "districtName": "TORAJA UTARA",
+  "provinceNo": 73,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a86"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA MAKASSAR",
+  "provinceNo": 73,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a87"
+  },
+  "districtNo": 72,
+  "districtName": "KOTA PARE PARE",
+  "provinceNo": 73,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a88"
+  },
+  "districtNo": 73,
+  "districtName": "KOTA PALOPO",
+  "provinceNo": 73,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a89"
+  },
+  "districtNo": 9,
+  "districtName": "KONAWE UTARA",
+  "provinceNo": 74,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a8a"
+  },
+  "districtNo": 10,
+  "districtName": "BUTON UTARA",
+  "provinceNo": 74,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a8b"
+  },
+  "districtNo": 12,
+  "districtName": "KONAWE KEPULAUAN",
+  "provinceNo": 74,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a8c"
+  },
+  "districtNo": 13,
+  "districtName": "MUNA BARAT",
+  "provinceNo": 74,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a8d"
+  },
+  "districtNo": 72,
+  "districtName": "KOTA BAU BAU",
+  "provinceNo": 74,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a8e"
+  },
+  "districtNo": 2,
+  "districtName": "BOALEMO",
+  "provinceNo": 75,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a8f"
+  },
+  "districtNo": 4,
+  "districtName": "PAHUWATO",
+  "provinceNo": 75,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a90"
+  },
+  "districtNo": 5,
+  "districtName": "GORONTALO UTARA",
+  "provinceNo": 75,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a91"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA GORONTALO",
+  "provinceNo": 75,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a92"
+  },
+  "districtNo": 3,
+  "districtName": "MAMASA",
+  "provinceNo": 76,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a93"
+  },
+  "districtNo": 4,
+  "districtName": "POLEWALI MANDAR",
+  "provinceNo": 76,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a94"
+  },
+  "districtNo": 5,
+  "districtName": "MAJENE",
+  "provinceNo": 76,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a95"
+  },
+  "districtNo": 1,
+  "districtName": "MALUKU TENGAH",
+  "provinceNo": 81,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a96"
+  },
+  "districtNo": 2,
+  "districtName": "MALUKU TENGGARA",
+  "provinceNo": 81,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a97"
+  },
+  "districtNo": 3,
+  "districtName": "KAB MALUKU TENGGARA BARAT",
+  "provinceNo": 81,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a98"
+  },
+  "districtNo": 5,
+  "districtName": "SERAM BAGIAN TIMUR",
+  "provinceNo": 81,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a99"
+  },
+  "districtNo": 7,
+  "districtName": "KEPULAUAN ARU",
+  "provinceNo": 81,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a9a"
+  },
+  "districtNo": 8,
+  "districtName": "MALUKU BARAT DAYA",
+  "provinceNo": 81,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a9b"
+  },
+  "districtNo": 9,
+  "districtName": "BURU SELATAN",
+  "provinceNo": 81,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a9c"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA AMBON",
+  "provinceNo": 81,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a9d"
+  },
+  "districtNo": 72,
+  "districtName": "KOTA TUAL",
+  "provinceNo": 81,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a9e"
+  },
+  "districtNo": 2,
+  "districtName": "HALMAHERA TENGAH",
+  "provinceNo": 82,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94a9f"
+  },
+  "districtNo": 3,
+  "districtName": "HALMAHERA UTARA",
+  "provinceNo": 82,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94aa0"
+  },
+  "districtNo": 6,
+  "districtName": "HALMAHERA TIMUR",
+  "provinceNo": 82,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94aa1"
+  },
+  "districtNo": 8,
+  "districtName": "PULAU TALIABU",
+  "provinceNo": 82,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94aa2"
+  },
+  "districtNo": 2,
+  "districtName": "JAYAWIJAYA",
+  "provinceNo": 91,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94aa3"
+  },
+  "districtNo": 8,
+  "districtName": "PANIAI",
+  "provinceNo": 91,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94aa4"
+  },
+  "districtNo": 11,
+  "districtName": "BIREUEN",
+  "provinceNo": 11,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94aa5"
+  },
+  "districtNo": 12,
+  "districtName": "MURUNG RAYA",
+  "provinceNo": 62,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94aa6"
+  },
+  "districtNo": 6,
+  "districtName": "FLORES TIMUR",
+  "provinceNo": 53,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94aa7"
+  },
+  "districtNo": 5,
+  "districtName": "KEPULAUAN YAPEN",
+  "provinceNo": 91,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94aa8"
+  },
+  "districtNo": 4,
+  "districtName": "BANJARNEGARA",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94aa9"
+  },
+  "districtNo": 6,
+  "districtName": "KATINGAN",
+  "provinceNo": 62,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94aaa"
+  },
+  "districtNo": 7,
+  "districtName": "MALANG",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94aab"
+  },
+  "districtNo": 10,
+  "districtName": "GUNUNG MAS",
+  "provinceNo": 62,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94aac"
+  },
+  "districtNo": 6,
+  "districtName": "MAMUJU TENGAH",
+  "provinceNo": 76,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94aad"
+  },
+  "districtNo": 11,
+  "districtName": "KAYONG UTARA",
+  "provinceNo": 61,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94aae"
+  },
+  "districtNo": 18,
+  "districtName": "SERDANG BEDAGAI",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94aaf"
+  },
+  "districtNo": 20,
+  "districtName": "JEPARA",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ab0"
+  },
+  "districtNo": 72,
+  "districtName": "KOTA DUMAI",
+  "provinceNo": 14,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ab1"
+  },
+  "districtNo": 10,
+  "districtName": "OGAN ILIR",
+  "provinceNo": 16,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ab2"
+  },
+  "districtNo": 17,
+  "districtName": "SAMOSIR",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ab3"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA TANGERANG",
+  "provinceNo": 36,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ab4"
+  },
+  "districtNo": 75,
+  "districtName": "KOTA PEKALONGAN",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ab5"
+  },
+  "districtNo": 11,
+  "districtName": "SUMEDANG",
+  "provinceNo": 32,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ab6"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA BOGOR",
+  "provinceNo": 32,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ab7"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA PADANG",
+  "provinceNo": 13,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ab8"
+  },
+  "districtNo": 8,
+  "districtName": "HULU SUNGAI UTARA",
+  "provinceNo": 63,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ab9"
+  },
+  "districtNo": 4,
+  "districtName": "TANAH DATAR",
+  "provinceNo": 13,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94aba"
+  },
+  "districtNo": 27,
+  "districtName": "SAMPANG",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94abb"
+  },
+  "districtNo": 74,
+  "districtName": "KOTA PADANG PANJANG",
+  "provinceNo": 13,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94abc"
+  },
+  "districtNo": 18,
+  "districtName": "PATI",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94abd"
+  },
+  "districtNo": 9,
+  "districtName": "MAROS",
+  "provinceNo": 73,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94abe"
+  },
+  "districtNo": 11,
+  "districtName": "BARRU",
+  "provinceNo": 73,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94abf"
+  },
+  "districtNo": 5,
+  "districtName": "ACEH BARAT",
+  "provinceNo": 11,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ac0"
+  },
+  "districtNo": 3,
+  "districtName": "BADUNG",
+  "provinceNo": 51,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ac1"
+  },
+  "districtNo": 4,
+  "districtName": "KEPULAUAN TALAUD",
+  "provinceNo": 71,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ac2"
+  },
+  "districtNo": 77,
+  "districtName": "KOTA MADIUN",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ac3"
+  },
+  "districtNo": 15,
+  "districtName": "BUTON SELATAN",
+  "provinceNo": 74,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ac4"
+  },
+  "districtNo": 3,
+  "districtName": "TRENGGALEK",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ac5"
+  },
+  "districtNo": 4,
+  "districtName": "LAMPUNG BARAT",
+  "provinceNo": 18,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ac6"
+  },
+  "districtNo": 3,
+  "districtName": "SIJUNJUNG",
+  "provinceNo": 13,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ac7"
+  },
+  "districtNo": 75,
+  "districtName": "KOTA SUBULUSSALAM",
+  "provinceNo": 11,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ac8"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA BANDAR LAMPUNG",
+  "provinceNo": 18,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ac9"
+  },
+  "districtNo": 8,
+  "districtName": "MAGELANG",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94aca"
+  },
+  "districtNo": 4,
+  "districtName": "BUTON",
+  "provinceNo": 74,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94acb"
+  },
+  "districtNo": 74,
+  "districtName": "KOTA LANGSA",
+  "provinceNo": 11,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94acc"
+  },
+  "districtNo": 6,
+  "districtName": "MOROWALI",
+  "provinceNo": 72,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94acd"
+  },
+  "districtNo": 4,
+  "districtName": "TULUNGAGUNG",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ace"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA BALIKPAPAN",
+  "provinceNo": 64,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94acf"
+  },
+  "districtNo": 3,
+  "districtName": "KAPUAS",
+  "provinceNo": 62,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ad0"
+  },
+  "districtNo": 2,
+  "districtName": "BELITUNG",
+  "provinceNo": 19,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ad1"
+  },
+  "districtNo": 5,
+  "districtName": "LANGKAT",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ad2"
+  },
+  "districtNo": 10,
+  "districtName": "MAYBRAT",
+  "provinceNo": 92,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ad3"
+  },
+  "districtNo": 7,
+  "districtName": "LIMA PULUH KOTA",
+  "provinceNo": 13,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ad4"
+  },
+  "districtNo": 1,
+  "districtName": "LOMBOK BARAT",
+  "provinceNo": 52,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ad5"
+  },
+  "districtNo": 11,
+  "districtName": "BALANGAN",
+  "provinceNo": 63,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ad6"
+  },
+  "districtNo": 73,
+  "districtName": "KOTA SIBOLGA",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ad7"
+  },
+  "districtNo": 9,
+  "districtName": "TEBO",
+  "provinceNo": 15,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ad8"
+  },
+  "districtNo": 21,
+  "districtName": "DEMAK",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ad9"
+  },
+  "districtNo": 20,
+  "districtName": "PADANG LAWAS UTARA",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ada"
+  },
+  "districtNo": 4,
+  "districtName": "SERANG",
+  "provinceNo": 36,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94adb"
+  },
+  "districtNo": 1,
+  "districtName": "BANGKA",
+  "provinceNo": 19,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94adc"
+  },
+  "districtNo": 17,
+  "districtName": "SUMBA TENGAH",
+  "provinceNo": 53,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94add"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA TARAKAN",
+  "provinceNo": 65,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ade"
+  },
+  "districtNo": 77,
+  "districtName": "KOTA PARIAMAN",
+  "provinceNo": 13,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94adf"
+  },
+  "districtNo": 16,
+  "districtName": "BEKASI",
+  "provinceNo": 32,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ae0"
+  },
+  "districtNo": 16,
+  "districtName": "NAGEKEO",
+  "provinceNo": 53,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ae1"
+  },
+  "districtNo": 18,
+  "districtName": "PANGANDARAN",
+  "provinceNo": 32,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ae2"
+  },
+  "districtNo": 14,
+  "districtName": "SIDENRENG RAPPANG",
+  "provinceNo": 73,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ae3"
+  },
+  "districtNo": 1,
+  "districtName": "MAMUJU UTARA",
+  "provinceNo": 76,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ae4"
+  },
+  "districtNo": 9,
+  "districtName": "SEKADAU",
+  "provinceNo": 61,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ae5"
+  },
+  "districtNo": 14,
+  "districtName": "TOLIKARA",
+  "provinceNo": 91,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ae6"
+  },
+  "districtNo": 14,
+  "districtName": "PURWAKARTA",
+  "provinceNo": 32,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ae7"
+  },
+  "districtNo": 13,
+  "districtName": "WAJO",
+  "provinceNo": 73,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ae8"
+  },
+  "districtNo": 7,
+  "districtName": "WONOSOBO",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94ae9"
+  },
+  "districtNo": 27,
+  "districtName": "PEMALANG",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94aea"
+  },
+  "districtNo": 2,
+  "districtName": "PONOROGO",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94aeb"
+  },
+  "districtNo": 8,
+  "districtName": "WAY KANAN",
+  "provinceNo": 18,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94aec"
+  },
+  "districtNo": 8,
+  "districtName": "BUNGO",
+  "provinceNo": 15,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94aed"
+  },
+  "districtNo": 10,
+  "districtName": "MAJALENGKA",
+  "provinceNo": 32,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94aee"
+  },
+  "districtNo": 9,
+  "districtName": "CIREBON",
+  "provinceNo": 32,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94aef"
+  },
+  "districtNo": 2,
+  "districtName": "MAMUJU",
+  "provinceNo": 76,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94af0"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA MANADO",
+  "provinceNo": 71,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94af1"
+  },
+  "districtNo": 5,
+  "districtName": "KEBUMEN",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94af2"
+  },
+  "districtNo": 2,
+  "districtName": "BANYUMAS",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94af3"
+  },
+  "districtNo": 4,
+  "districtName": "BANDUNG",
+  "provinceNo": 32,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94af4"
+  },
+  "districtNo": 3,
+  "districtName": "NATUNA",
+  "provinceNo": 21,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94af5"
+  },
+  "districtNo": 1,
+  "districtName": "JEMBRANA",
+  "provinceNo": 51,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94af6"
+  },
+  "districtNo": 4,
+  "districtName": "JENEPONTO",
+  "provinceNo": 73,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94af7"
+  },
+  "districtNo": 15,
+  "districtName": "SIDOARJO",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94af8"
+  },
+  "districtNo": 11,
+  "districtName": "SUMBA TIMUR",
+  "provinceNo": 53,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94af9"
+  },
+  "districtNo": 8,
+  "districtName": "KUNINGAN",
+  "provinceNo": 32,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94afa"
+  },
+  "districtNo": 8,
+  "districtName": "KAIMANA",
+  "provinceNo": 92,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94afb"
+  },
+  "districtNo": 75,
+  "districtName": "KOTA PASURUAN",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94afc"
+  },
+  "districtNo": 7,
+  "districtName": "ROKAN HILIR",
+  "provinceNo": 14,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94afd"
+  },
+  "districtNo": 3,
+  "districtName": "FAK FAK",
+  "provinceNo": 92,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94afe"
+  },
+  "districtNo": 3,
+  "districtName": "MUARA ENIM",
+  "provinceNo": 16,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94aff"
+  },
+  "districtNo": 12,
+  "districtName": "PENUKAL ABAB LEMATANG ILIR",
+  "provinceNo": 16,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b00"
+  },
+  "districtNo": 22,
+  "districtName": "BOJONEGORO",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b01"
+  },
+  "districtNo": 7,
+  "districtName": "PULAU MOROTAI",
+  "provinceNo": 82,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b02"
+  },
+  "districtNo": 3,
+  "districtName": "LAMPUNG UTARA",
+  "provinceNo": 18,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b03"
+  },
+  "districtNo": 8,
+  "districtName": "LUMAJANG",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b04"
+  },
+  "districtNo": 7,
+  "districtName": "SUMBAWA BARAT",
+  "provinceNo": 52,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b05"
+  },
+  "districtNo": 10,
+  "districtName": "SIGI",
+  "provinceNo": 72,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b06"
+  },
+  "districtNo": 3,
+  "districtName": "ACEH TIMUR",
+  "provinceNo": 11,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b07"
+  },
+  "districtNo": 8,
+  "districtName": "SIAK",
+  "provinceNo": 14,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b08"
+  },
+  "districtNo": 16,
+  "districtName": "BLORA",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b09"
+  },
+  "districtNo": 8,
+  "districtName": "LANDAK",
+  "provinceNo": 61,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b0a"
+  },
+  "districtNo": 1,
+  "districtName": "MERAUKE",
+  "provinceNo": 91,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b0b"
+  },
+  "districtNo": 1,
+  "districtName": "BANGGAI",
+  "provinceNo": 72,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b0c"
+  },
+  "districtNo": 9,
+  "districtName": "TABALONG",
+  "provinceNo": 63,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b0d"
+  },
+  "districtNo": 2,
+  "districtName": "KUTAI KARTANEGARA",
+  "provinceNo": 64,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b0e"
+  },
+  "districtNo": 11,
+  "districtName": "KEEROM",
+  "provinceNo": 91,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b0f"
+  },
+  "districtNo": 1,
+  "districtName": "BULUNGAN",
+  "provinceNo": 65,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b10"
+  },
+  "districtNo": 4,
+  "districtName": "SORONG SELATAN",
+  "provinceNo": 92,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b11"
+  },
+  "districtNo": 5,
+  "districtName": "KEPULAUAN SULA",
+  "provinceNo": 82,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b12"
+  },
+  "districtNo": 73,
+  "districtName": "KOTA BANDUNG",
+  "provinceNo": 32,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b13"
+  },
+  "districtNo": 73,
+  "districtName": "KOTA LHOKSEUMAWE",
+  "provinceNo": 11,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b14"
+  },
+  "districtNo": 4,
+  "districtName": "HALMAHERA SELATAN",
+  "provinceNo": 82,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b15"
+  },
+  "districtNo": 12,
+  "districtName": "MOROWALI UTARA",
+  "provinceNo": 72,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b16"
+  },
+  "districtNo": 72,
+  "districtName": "KOTA METRO",
+  "provinceNo": 18,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b17"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA PONTIANAK",
+  "provinceNo": 61,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b18"
+  },
+  "districtNo": 5,
+  "districtName": "PADANG PARIAMAN",
+  "provinceNo": 13,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b19"
+  },
+  "districtNo": 6,
+  "districtName": "KEDIRI",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b1a"
+  },
+  "districtNo": 6,
+  "districtName": "MUSI BANYUASIN",
+  "provinceNo": 16,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b1b"
+  },
+  "districtNo": 7,
+  "districtName": "WAKATOBI",
+  "provinceNo": 74,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b1c"
+  },
+  "districtNo": 10,
+  "districtName": "SARMI",
+  "provinceNo": 91,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b1d"
+  },
+  "districtNo": 72,
+  "districtName": "KOTA SAMARINDA",
+  "provinceNo": 64,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b1e"
+  },
+  "districtNo": 2,
+  "districtName": "BULUKUMBA",
+  "provinceNo": 73,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b1f"
+  },
+  "districtNo": 5,
+  "districtName": "KLUNGKUNG",
+  "provinceNo": 51,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b20"
+  },
+  "districtNo": 28,
+  "districtName": "TEGAL",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b21"
+  },
+  "districtNo": 1,
+  "districtName": "CILACAP",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b22"
+  },
+  "districtNo": 6,
+  "districtName": "BIAK NUMFOR",
+  "provinceNo": 91,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b23"
+  },
+  "districtNo": 74,
+  "districtName": "KOTA BONTANG",
+  "provinceNo": 64,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b24"
+  },
+  "districtNo": 76,
+  "districtName": "KOTA TEBING TINGGI",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b25"
+  },
+  "districtNo": 21,
+  "districtName": "NGAWI",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b26"
+  },
+  "districtNo": 9,
+  "districtName": "JEMBER",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b27"
+  },
+  "districtNo": 5,
+  "districtName": "TAPIN",
+  "provinceNo": 63,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b28"
+  },
+  "districtNo": 9,
+  "districtName": "LAMANDAU",
+  "provinceNo": 62,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b29"
+  },
+  "districtNo": 2,
+  "districtName": "KOTAWARINGIN TIMUR",
+  "provinceNo": 62,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b2a"
+  },
+  "districtNo": 19,
+  "districtName": "MADIUN",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b2b"
+  },
+  "districtNo": 11,
+  "districtName": "DAIRI",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b2c"
+  },
+  "districtNo": 18,
+  "districtName": "SUMBA BARAT DAYA",
+  "provinceNo": 53,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b2d"
+  },
+  "districtNo": 12,
+  "districtName": "KUBU RAYA",
+  "provinceNo": 61,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b2e"
+  },
+  "districtNo": 1,
+  "districtName": "KOLAKA",
+  "provinceNo": 74,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b2f"
+  },
+  "districtNo": 1,
+  "districtName": "ACEH SELATAN",
+  "provinceNo": 11,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b30"
+  },
+  "districtNo": 5,
+  "districtName": "KONAWE SELATAN",
+  "provinceNo": 74,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b31"
+  },
+  "districtNo": 15,
+  "districtName": "GROBOGAN",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b32"
+  },
+  "districtNo": 4,
+  "districtName": "GIANYAR",
+  "provinceNo": 51,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b33"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA TERNATE",
+  "provinceNo": 82,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b34"
+  },
+  "districtNo": 5,
+  "districtName": "MUSI RAWAS",
+  "provinceNo": 16,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b35"
+  },
+  "districtNo": 11,
+  "districtName": "KOLAKA TIMUR",
+  "provinceNo": 74,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b36"
+  },
+  "districtNo": 4,
+  "districtName": "BARITO KUALA",
+  "provinceNo": 63,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b37"
+  },
+  "districtNo": 4,
+  "districtName": "TANA TIDUNG",
+  "provinceNo": 65,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b38"
+  },
+  "districtNo": 4,
+  "districtName": "NABIRE",
+  "provinceNo": 91,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b39"
+  },
+  "districtNo": 5,
+  "districtName": "RAJA AMPAT",
+  "provinceNo": 92,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b3a"
+  },
+  "districtNo": 21,
+  "districtName": "MALAKA",
+  "provinceNo": 53,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b3b"
+  },
+  "districtNo": 3,
+  "districtName": "SANGGAU",
+  "provinceNo": 61,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b3c"
+  },
+  "districtNo": 14,
+  "districtName": "BUTON TENGAH",
+  "provinceNo": 74,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b3d"
+  },
+  "districtNo": 10,
+  "districtName": "BOLAANG MONGONDOW TIMUR",
+  "provinceNo": 71,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b3e"
+  },
+  "districtNo": 1,
+  "districtName": "PESISIR SELATAN",
+  "provinceNo": 13,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b3f"
+  },
+  "districtNo": 7,
+  "districtName": "PUNCAK JAYA",
+  "provinceNo": 91,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b40"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA KEDIRI",
+  "provinceNo": 35,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b41"
+  },
+  "districtNo": 3,
+  "districtName": "MUNA",
+  "provinceNo": 74,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b42"
+  },
+  "districtNo": 6,
+  "districtName": "ROKAN HULU",
+  "provinceNo": 14,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b43"
+  },
+  "districtNo": 7,
+  "districtName": "CIAMIS",
+  "provinceNo": 32,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b44"
+  },
+  "districtNo": 14,
+  "districtName": "ACEH JAYA",
+  "provinceNo": 11,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b45"
+  },
+  "districtNo": 25,
+  "districtName": "NIAS BARAT",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b46"
+  },
+  "districtNo": 14,
+  "districtName": "SRAGEN",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b47"
+  },
+  "districtNo": 72,
+  "districtName": "KOTA BANJARBARU",
+  "provinceNo": 63,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b48"
+  },
+  "districtNo": 16,
+  "districtName": "ACEH TAMIANG",
+  "provinceNo": 11,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b49"
+  },
+  "districtNo": 9,
+  "districtName": "KUANTAN SINGINGI",
+  "provinceNo": 14,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b4a"
+  },
+  "districtNo": 3,
+  "districtName": "BENGKALIS",
+  "provinceNo": 14,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b4b"
+  },
+  "districtNo": 7,
+  "districtName": "BANYUASIN",
+  "provinceNo": 16,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b4c"
+  },
+  "districtNo": 10,
+  "districtName": "ACEH SINGKIL",
+  "provinceNo": 11,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b4d"
+  },
+  "districtNo": 76,
+  "districtName": "KOTA DEPOK",
+  "provinceNo": 32,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b4e"
+  },
+  "districtNo": 3,
+  "districtName": "BENGKULU UTARA",
+  "provinceNo": 17,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b4f"
+  },
+  "districtNo": 2,
+  "districtName": "LOMBOK TENGAH",
+  "provinceNo": 52,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b50"
+  },
+  "districtNo": 77,
+  "districtName": "KOTA PADANGSIDIMPUAN",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b51"
+  },
+  "districtNo": 3,
+  "districtName": "LOMBOK TIMUR",
+  "provinceNo": 52,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b52"
+  },
+  "districtNo": 7,
+  "districtName": "PIDIE",
+  "provinceNo": 11,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b53"
+  },
+  "districtNo": 11,
+  "districtName": "MANOKWARI SELATAN",
+  "provinceNo": 92,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b54"
+  },
+  "districtNo": 10,
+  "districtName": "LABUHANBATU",
+  "provinceNo": 12,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b55"
+  },
+  "districtNo": 74,
+  "districtName": "KOTA SEMARANG",
+  "provinceNo": 33,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b56"
+  },
+  "districtNo": 76,
+  "districtName": "KOTA PAYAKUMBUH",
+  "provinceNo": 13,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b57"
+  },
+  "districtNo": 10,
+  "districtName": "PRINGSEWU",
+  "provinceNo": 18,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b58"
+  },
+  "districtNo": 71,
+  "districtName": "KOTA DENPASAR",
+  "provinceNo": 51,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "5cc70f518ce8db1f69f94b59"
+  },
+  "districtNo": 72,
+  "districtName": "KOTA SUNGAI PENUH",
+  "provinceNo": 15,
+  "updated_by": ""
+},{
+  "_id": {
+    "$oid": "612c7698664300004e0041f3"
+  },
+  "provinceNo": 31,
+  "districtNo": 73,
+  "districtName": "KOTA ADM. JAKARTA BARAT",
+  "updated_by": "MOHAMAD IHSAN KAMIL"
+},{
+  "_id": {
+    "$oid": "612c76f6664300004e0041f5"
+  },
+  "provinceNo": 31,
+  "districtNo": 74,
+  "districtName": "KOTA ADM. JAKARTA SELATAN",
+  "updated_by": "MOHAMAD IHSAN KAMIL"
+}]
